@@ -1000,6 +1000,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.h1-style{
 		font-size:60px;
 	}
+	.p-14-style{
+		width:70.39%;
+	}
+	.h3-control-bar-style{
+		width:29.98%;
+	}
 	
 }
 
@@ -1015,6 +1021,42 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.p-bloc-7-style{
 		font-size:18px;
+	}
+	.h2-style{
+		font-size:40px;
+	}
+	.h1-9-style{
+		font-size:40px;
+	}
+	.h1-10-style{
+		font-size:40px;
+	}
+	.h1-bloc-19-style{
+		font-size:30px;
+	}
+	.h1-not-sofa-style{
+		font-size:30px;
+	}
+	.h6-bloc-17-style{
+		font-size:13px;
+	}
+	.h6-5-style{
+		font-size:13px;
+	}
+	.p-13-style{
+		font-size:20px;
+	}
+	.row-style{
+		width:100%;
+	}
+	.h3-control-bar-style{
+		width:62.28%;
+	}
+	.p-14-style{
+		width:100%;
+	}
+	.h2-other-features-style{
+		font-size:40px;
 	}
 	
 }
