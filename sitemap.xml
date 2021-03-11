@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>eddieko.com</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -52,7 +52,7 @@
 </url>
 <url>
 	<loc>eddieko.com/me.html</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -70,7 +70,7 @@
 </url>
 <url>
 	<loc>eddieko.com/gallery.html</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -228,37 +228,113 @@
 </url>
 <url>
 	<loc>eddieko.com/dandelion.html</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>eddieko.com/img/Web%201920%20–%202.png</image:loc>
-	<image:title>Web%25201920%2520–%25202</image:title>
+	<image:loc>eddieko.com/img/profile1.jpg</image:loc>
+	<image:title>profile1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/Web%201920%20–%203.png</image:loc>
-	<image:title>Web%25201920%2520–%25203</image:title>
+	<image:loc>eddieko.com/img/profile2.jpg</image:loc>
+	<image:title>profile2</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/Web%201920%20–%204.png</image:loc>
-	<image:title>Web%25201920%2520–%25204</image:title>
+	<image:loc>eddieko.com/img/profile3.jpg</image:loc>
+	<image:title>profile3</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/Web%201920%20–%205.png</image:loc>
-	<image:title>Web%25201920%2520–%25205</image:title>
+	<image:loc>eddieko.com/img/data1.png</image:loc>
+	<image:title>data1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/Web%201920%20–%206.png</image:loc>
-	<image:title>Web%25201920%2520–%25206</image:title>
+	<image:loc>eddieko.com/img/data2.png</image:loc>
+	<image:title>data2</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/Web%201920%20–%207.png</image:loc>
-	<image:title>Web%25201920%2520–%25207</image:title>
+	<image:loc>eddieko.com/img/data3.png</image:loc>
+	<image:title>data3</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/Web%201920%20–%208.png</image:loc>
-	<image:title>Web%25201920%2520–%25208</image:title>
+	<image:loc>eddieko.com/img/trend1.jpg</image:loc>
+	<image:title>trend1</image:title>
 	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/trend2.jpg</image:loc>
+	<image:title>trend2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prob1.png</image:loc>
+	<image:title>trend1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prob2.png</image:loc>
+	<image:title>trend2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/logo.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature.png</image:loc>
+	<image:title>feature</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/summary.png</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/official.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/sharings.png</image:loc>
+	<image:title>slide%203</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/discussion.png</image:loc>
+	<image:title>discussion</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/nash.png</image:loc>
+	<image:title>nash</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature1.png</image:loc>
+	<image:title>feature2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature2.png</image:loc>
+	<image:title>feature4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature3.png</image:loc>
+	<image:title>feature3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature4.png</image:loc>
+	<image:title>feature4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/revenue.png</image:loc>
+	<image:title>revenue</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/plan.png</image:loc>
+	<image:title>plan</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>eddieko.com/vid/scenario1.mp4</video:content_loc>
+	<video:title>scenario1</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>eddieko.com/vid/scenario2.mp4</video:content_loc>
+	<video:title>scenario2</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>eddieko.com/vid/scenario3.mp4</video:content_loc>
+	<video:title>scenario3</video:title>
+	</video:video>
 	<image:image>
 	<image:loc>eddieko.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
@@ -270,7 +346,7 @@
 </url>
 <url>
 	<loc>eddieko.com/machinarium.html</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -336,7 +412,7 @@
 </url>
 <url>
 	<loc>eddieko.com/soundhub.html</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -378,7 +454,7 @@
 </url>
 <url>
 	<loc>eddieko.com/section.html</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -432,7 +508,7 @@
 </url>
 <url>
 	<loc>eddieko.com/urbankite.html</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -474,7 +550,7 @@
 </url>
 <url>
 	<loc>eddieko.com/kai.html</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -524,7 +600,7 @@
 </url>
 <url>
 	<loc>eddieko.com/sam.html</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -578,7 +654,7 @@
 </url>
 <url>
 	<loc>eddieko.com/travel-guide.html</loc>
-	<lastmod>2021-03-07</lastmod>
+	<lastmod>2021-03-10</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
