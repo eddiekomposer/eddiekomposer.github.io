@@ -2,7 +2,7 @@
 	Eddie Ko
 	About: Eddie Ko (1997 - ) To INFINITY and BEYOND
 	Author: Eddie Ko
-	Version: 1.1
+	Version: 1.2
 	Built with Blocs
 -----------------------------------------------------------------------------------*/
 body{
@@ -1032,6 +1032,76 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-size:80px;
 	width:58.16%;
 }
+.h1-brief-style{
+	font-size:80px;
+	width:78.69%;
+}
+.p-52-style{
+	font-size:20px;
+	width:47.3%;
+}
+.p-53-style{
+	font-size:20px;
+}
+.p-54-style{
+	font-size:20px;
+}
+.p-55-style{
+	font-size:20px;
+}
+.p-56-style{
+	font-size:20px;
+	width:100%;
+}
+.h6-6-style{
+	font-size:20px;
+}
+.probackground{
+	background:linear-gradient(153deg, #000000    20%, #41424B 100%);
+}
+.container-div-36301-style{
+	height:200px;
+}
+.container-div-13658-style{
+	height:200px;
+}
+.protext{
+	background:linear-gradient(327deg, #E0F0F6 48%, #7485B2 90%);
+	background-clip:text!important;
+	-webkit-background-clip:text!important;
+	color:transparent!important;
+}
+.img-urbankitelo-style{
+	width:373px;
+}
+.h1-bloc-33-style{
+	width:83.72%;
+}
+.h1-20-style{
+	width:96.67%;
+}
+.img-104-style{
+	width:430px;
+}
+.h1-bloc-34-style{
+	width:100%;
+}
+.h1-25-style{
+	width:100%;
+}
+.p-bloc-34-style{
+	width:60.21%;
+	font-size:20px;
+}
+.p-61-style{
+	font-size:20px;
+}
+.p-60-style{
+	font-size:40px;
+}
+.container-div-bloc-37-style{
+	height:150px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -1123,9 +1193,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bg-iPhone-XS-Mockup{
 	background-image:url("img/iPhone-XS-Mockup.png");
 }
-.bg-資產-203{
-	background-image:url("img/資產%203.png");
-}
 .bg-海洋{
 	background-image:url("img/海洋.jpg");
 }
@@ -1146,6 +1213,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bg-background{
 	background-image:url("img/background.jpg");
+}
+.bg-jam{
+	background-image:url("img/jam.jpg");
+}
+.bg-urbankite{
+	background-image:url("img/urbankite.png");
+}
+.bg-model{
+	background-image:url("img/model.png");
 }
 
 /* = Custom Bric Data
@@ -1403,6 +1479,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.p-18741-style{
 		width:64.82%;
 	}
+	.h1-brief-style{
+		width:100%;
+	}
 	
 	/* MD Row Margin Offsets */
 	.voffset-md{
@@ -1520,6 +1599,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.p-bloc-13-style{
 		font-size:40px;
+	}
+	.h1-brief-style{
+		font-size:40px;
+	}
+	.p-52-style{
+		width:100%;
+	}
+	.p-60-style{
+		font-size:30px;
 	}
 	
 }
