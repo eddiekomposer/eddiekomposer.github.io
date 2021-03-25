@@ -415,6 +415,18 @@ button{
 	border-right:2px solid;
 }
 
+/* = Lists
+-------------------------------------------------------------- */
+.list-sp-md li{
+	padding-bottom:10px;
+}
+.list-horizontal-layout li{
+	display:inline-block;
+	margin:0 10px;
+}
+.list-sp-md li:last-child,.list-sp-lg li:last-child,.list-sp-xl li:last-child{
+	padding-bottom:0;
+}
 
 .card-sq, .card-sq .card-header, .card-sq .card-footer{
 	border-radius:0;
@@ -903,15 +915,13 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .container-div-bloc-38-style{
 	height:80px;
 }
-.p-bloc-3-style{
-	font-size:24px;
-}
 .h3-2-style{
 	font-size:40px;
 	font-weight:bold;
 }
 .p-1-style{
 	font-size:24px;
+	height:80px;
 }
 .h3-28606-style{
 	font-size:60px;
@@ -1034,7 +1044,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h1-brief-style{
 	font-size:80px;
-	width:78.69%;
+	width:66.67%;
 }
 .p-52-style{
 	font-size:20px;
@@ -1075,7 +1085,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:373px;
 }
 .h1-bloc-33-style{
-	width:83.72%;
+	width:81.31%;
 }
 .h1-20-style{
 	width:93.24%;
@@ -1101,6 +1111,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .p-64-style{
 	font-size:20px;
+}
+.tabunswitched{
+	font-family:"Roboto";
+	font-size:30px;
+	font-weight:bold;
+	color:#F4D97A!important;
+	filter:blur(2px);
+}
+.tab{
+	font-family:"Roboto";
+	font-size:25px;
+	font-weight:500;
+	color:#F3BD00!important;
 }
 
 /* = Colour
@@ -1523,6 +1546,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.p-bloc-12-style{
 		width:88.64%;
 	}
+	.h1-bloc-33-style{
+		font-size:60px;
+	}
 	
 }
 
@@ -1608,6 +1634,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.p-60-style{
 		font-size:30px;
+	}
+	.h1-bloc-33-style{
+		font-size:40px;
 	}
 	
 }
