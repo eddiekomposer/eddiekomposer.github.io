@@ -293,6 +293,10 @@ a:hover{text-decoration: none; cursor:pointer;}
 /* = NavBar
 -------------------------------------------------------------- */
 
+.hero .hero-nav{
+	padding-left:inherit;
+	padding-right:inherit;
+}
 .navbar-dark .nav .dropdown-menu .nav-link{
 	color: rgb(64, 64, 64);
 }
@@ -1748,6 +1752,24 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.h1-bloc-33-style{
 		font-size:40px;
+	}
+	.h1-36-style{
+		font-size:40px;
+	}
+	.h1-37-style{
+		font-size:30px;
+	}
+	.h6-16-style{
+		font-size:20px;
+	}
+	.h1-38-style{
+		font-size:100px;
+	}
+	.h5-style{
+		width:100%;
+	}
+	.p-bloc-55-style{
+		width:100%;
 	}
 	
 }
