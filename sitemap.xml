@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>eddieko.com</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -30,11 +30,15 @@
 	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/sam.png</image:loc>
+	<image:loc>eddieko.com/img/play.png</image:loc>
 	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/kai.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/sam.png</image:loc>
 	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
@@ -52,7 +56,7 @@
 </url>
 <url>
 	<loc>eddieko.com/me.html</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -70,7 +74,7 @@
 </url>
 <url>
 	<loc>eddieko.com/gallery.html</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -126,6 +130,10 @@
 	<image:title>page2%201011-full</image:title>
 	</image:image>
 	<image:image>
+	<image:loc>eddieko.com/img/cat%20with%20suit.jpg</image:loc>
+	<image:title>cat%2520with%2520suit</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>eddieko.com/img/page2-1012-full.jpg</image:loc>
 	<image:title>page2%201012-full</image:title>
 	</image:image>
@@ -178,6 +186,10 @@
 	<image:title>page2%201024-full</image:title>
 	</image:image>
 	<image:image>
+	<image:loc>eddieko.com/img/perspective.png</image:loc>
+	<image:title>perspective</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>eddieko.com/img/page2-1025-full.jpg</image:loc>
 	<image:title>page2%201025-full</image:title>
 	</image:image>
@@ -228,7 +240,7 @@
 </url>
 <url>
 	<loc>eddieko.com/dandelion.html</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -272,7 +284,7 @@
 	<image:title>trend2</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/logo.png</image:loc>
+	<image:loc>eddieko.com/img/dandelionlogo.png</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 	<image:image>
@@ -346,7 +358,7 @@
 </url>
 <url>
 	<loc>eddieko.com/machinarium.html</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -412,7 +424,7 @@
 </url>
 <url>
 	<loc>eddieko.com/soundhub.html</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -454,7 +466,7 @@
 </url>
 <url>
 	<loc>eddieko.com/section.html</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -508,7 +520,7 @@
 </url>
 <url>
 	<loc>eddieko.com/urbankite.html</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -622,7 +634,7 @@
 </url>
 <url>
 	<loc>eddieko.com/kai.html</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -672,7 +684,7 @@
 </url>
 <url>
 	<loc>eddieko.com/sam.html</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -726,7 +738,7 @@
 </url>
 <url>
 	<loc>eddieko.com/travel-guide.html</loc>
-	<lastmod>2021-03-24</lastmod>
+	<lastmod>2021-04-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -809,6 +821,96 @@
 	<video:content_loc>eddieko.com/vid/secondpage.mp4</video:content_loc>
 	<video:title>secondpage</video:title>
 	</video:video>
+	<image:image>
+	<image:loc>eddieko.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>eddieko.com/mideon.html</loc>
+	<lastmod>2021-04-01</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>eddieko.com/img/China-Tour-Logo.png</image:loc>
+	<image:title>China%20Tour-Logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/profile-photo-440.jpg</image:loc>
+	<image:title>profile%20photo-440</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/Taylor_Swift_-_Love_Story.png</image:loc>
+	<image:title>Taylor_Swift_%20_Love_Story</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/alam-walker-faded-song-lyrics-750750.jpg</image:loc>
+	<image:title>alam%20walker-faded-song-lyrics-750750</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/think.png</image:loc>
+	<image:title>think</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/stuck.png</image:loc>
+	<image:title>stuck</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/journey%20map.png</image:loc>
+	<image:title>journey%2520map</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/mideonlogo.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/play.png</image:loc>
+	<image:title>play</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/scalecomparison.png</image:loc>
+	<image:title>scalecomparison</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/good.png</image:loc>
+	<image:title>good</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/bendpitch.png</image:loc>
+	<image:title>bendpitch</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/nice%20express.png</image:loc>
+	<image:title>nice%2520express</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/keypadexploded.png</image:loc>
+	<image:title>keypadexploded</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/keycomparison.png</image:loc>
+	<image:title>keycomparison</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/useful.png</image:loc>
+	<image:title>useful</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/render.777.png</image:loc>
+	<image:title>render.777</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/render.778.png</image:loc>
+	<image:title>render.778</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/图像%2074.png</image:loc>
+	<image:title>图像%252074</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>

@@ -293,10 +293,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 /* = NavBar
 -------------------------------------------------------------- */
 
-.hero .hero-nav{
-	padding-left:inherit;
-	padding-right:inherit;
-}
 .navbar-dark .nav .dropdown-menu .nav-link{
 	color: rgb(64, 64, 64);
 }
@@ -1044,7 +1040,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h1-brief-style{
 	font-size:80px;
-	width:66.67%;
+	width:100%;
 }
 .p-52-style{
 	font-size:20px;
@@ -1125,6 +1121,103 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-weight:500;
 	color:#F3BD00!important;
 }
+.container-div-bloc-3-style{
+	height:50px;
+}
+.h1-36-style{
+	font-size:80px;
+}
+.container-div-42180-style{
+	height:150px;
+}
+.h1-37-style{
+	width:100%;
+}
+.h6-8-style{
+	font-size:20px;
+}
+.h3-556-followers-style{
+	font-size:20px;
+}
+.h1-38-style{
+	font-size:200px;
+}
+.h6-16-style{
+	font-size:30px;
+}
+.h2-3-style{
+	font-size:40px;
+}
+.img-166-style{
+	width:255px;
+}
+.container-div-bloc-51-style{
+	height:115px;
+}
+.container-div-bloc-53-style{
+	height:200px;
+}
+.h2-introducing-style{
+	font-size:40px;
+}
+.img-mideonlo-style{
+	width:438px;
+}
+.container-div-bloc-54-style{
+	height:329px;
+}
+.h5-style{
+	font-size:40px;
+	width:49.21%;
+}
+.p-74-style{
+	font-size:20px;
+	width:80.87%;
+}
+.p-77-style{
+	font-size:20px;
+	width:88.61%;
+}
+.img-171-style{
+	width:150px;
+}
+.container-div-38754-style{
+	height:425px;
+}
+.h2-preset-scales-style{
+	font-size:40px;
+}
+.img-scalecomparis-style{
+	width:880px;
+}
+.img-bendpit-style{
+	width:731px;
+}
+.img-nice-express-style{
+	width:150px;
+	height:150px;
+}
+.h1-42-style{
+	font-size:40px;
+	width:96.15%;
+}
+.p-82-style{
+	font-size:20px;
+	width:96%;
+}
+.container-div-28254-style{
+	height:120px;
+}
+.h2-13-style{
+	font-size:30px;
+}
+.img-rend-style{
+	width:653px;
+}
+.p-bloc-55-style{
+	width:46.49%;
+	font-size:20px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -1160,6 +1253,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .tc-black-2{
 	color:#000000!important;
+}
+.tc-burnt-sienna{
+	color:#EB7153!important;
 }
 
 /* Link colour styles */
@@ -1245,6 +1341,21 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bg-model{
 	background-image:url("img/model.png");
+}
+.bg-render-779{
+	background-image:url("img/render.779.png");
+}
+.bg-gen-20z{
+	background-image:url("img/gen%20z.jpg");
+}
+.bg-ugc{
+	background-image:url("img/ugc.webp");
+}
+.bg-render-781{
+	background-image:url("img/render.781.png");
+}
+.bg-render-780{
+	background-image:url("img/render.780.png");
 }
 
 /* = Custom Bric Data
