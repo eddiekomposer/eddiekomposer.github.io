@@ -14,11 +14,15 @@
 	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/machinarium.png</image:loc>
+	<image:loc>eddieko.com/img/libreservation.png</image:loc>
 	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/dandelion.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/machinarium.png</image:loc>
 	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
