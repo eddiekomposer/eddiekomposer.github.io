@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>eddieko.com</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -60,7 +60,7 @@
 </url>
 <url>
 	<loc>eddieko.com/me.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -78,7 +78,7 @@
 </url>
 <url>
 	<loc>eddieko.com/gallery.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -244,7 +244,7 @@
 </url>
 <url>
 	<loc>eddieko.com/dandelion.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -362,7 +362,7 @@
 </url>
 <url>
 	<loc>eddieko.com/machinarium.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -428,7 +428,7 @@
 </url>
 <url>
 	<loc>eddieko.com/soundhub.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -470,7 +470,7 @@
 </url>
 <url>
 	<loc>eddieko.com/section.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -524,7 +524,7 @@
 </url>
 <url>
 	<loc>eddieko.com/urbankite.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -638,7 +638,7 @@
 </url>
 <url>
 	<loc>eddieko.com/kai.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -688,7 +688,7 @@
 </url>
 <url>
 	<loc>eddieko.com/sam.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -742,7 +742,7 @@
 </url>
 <url>
 	<loc>eddieko.com/travel-guide.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -836,44 +836,20 @@
 </url>
 <url>
 	<loc>eddieko.com/mideon.html</loc>
-	<lastmod>2021-04-01</lastmod>
+	<lastmod>2021-05-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>eddieko.com/img/China-Tour-Logo.png</image:loc>
-	<image:title>China%20Tour-Logo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/profile-photo-440.jpg</image:loc>
-	<image:title>profile%20photo-440</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/Taylor_Swift_-_Love_Story.png</image:loc>
-	<image:title>Taylor_Swift_%20_Love_Story</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/alam-walker-faded-song-lyrics-750750.jpg</image:loc>
-	<image:title>alam%20walker-faded-song-lyrics-750750</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/think.png</image:loc>
-	<image:title>think</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/stuck.png</image:loc>
-	<image:title>stuck</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/journey%20map.png</image:loc>
-	<image:title>journey%2520map</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/mideonlogo.png</image:loc>
-	<image:title>placeholder%20image</image:title>
-	</image:image>
-	<image:image>
 	<image:loc>eddieko.com/img/play.png</image:loc>
-	<image:title>play</image:title>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/pentatonic.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/blues.png</image:loc>
+	<image:title>slide%203</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/scalecomparison.png</image:loc>
@@ -912,8 +888,166 @@
 	<image:title>render.778</image:title>
 	</image:image>
 	<image:image>
+	<image:loc>eddieko.com/img/China-Tour-Logo.png</image:loc>
+	<image:title>China%20Tour-Logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/profile-photo-440.jpg</image:loc>
+	<image:title>profile%20photo-440</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/Taylor_Swift_-_Love_Story.png</image:loc>
+	<image:title>Taylor_Swift_%20_Love_Story</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/alam-walker-faded-song-lyrics-750750.jpg</image:loc>
+	<image:title>alam%20walker-faded-song-lyrics-750750</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/think.png</image:loc>
+	<image:title>think</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/stuck.png</image:loc>
+	<image:title>stuck</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/journey%20map.png</image:loc>
+	<image:title>journey%2520map</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>eddieko.com/img/图像%2074.png</image:loc>
 	<image:title>图像%252074</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>eddieko.com/libreserve.html</loc>
+	<lastmod>2021-05-09</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>eddieko.com/img/libtraffic.jpg</image:loc>
+	<image:title>libtraffic</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/needs%26pain.jpg</image:loc>
+	<image:title>needs%2526pain</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/libfloorplan.png</image:loc>
+	<image:title>libfloorplan</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/libdata.png</image:loc>
+	<image:title>libdata</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/currentflow.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/currentpainpoints.png</image:loc>
+	<image:title>currentpainpoints</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/interview.png</image:loc>
+	<image:title>interview</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/interview_1.png</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/interview_2.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/interview_3.png</image:loc>
+	<image:title>slide%203</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/reference-desk.jpg</image:loc>
+	<image:title>reference%20desk</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/userflow.png</image:loc>
+	<image:title>userflow</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/wireframe.png</image:loc>
+	<image:title>wireframe</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/libusertest.png</image:loc>
+	<image:title>libusertest</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/iterations.png</image:loc>
+	<image:title>iterations</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/liblogin.png</image:loc>
+	<image:title>liblogin</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/libhomepage1.png</image:loc>
+	<image:title>libhomepage1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/Newreservation.png</image:loc>
+	<image:title>Newreservation</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/spacefilter.png</image:loc>
+	<image:title>spacefilter</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/areamap.png</image:loc>
+	<image:title>areamap</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/checktime.png</image:loc>
+	<image:title>Newreservation</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/confirmation.png</image:loc>
+	<image:title>spacefilter</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/libhomepage2.png</image:loc>
+	<image:title>Newreservation</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/libhomepage3.png</image:loc>
+	<image:title>spacefilter</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/libaccount.png</image:loc>
+	<image:title>spacefilter</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/libreport.png</image:loc>
+	<image:title>Newreservation</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/flow1.png</image:loc>
+	<image:title>flow1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/flow2.png</image:loc>
+	<image:title>flow2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/flow3.png</image:loc>
+	<image:title>flow3</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/</image:loc>

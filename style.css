@@ -428,6 +428,8 @@ button{
 	padding-bottom:0;
 }
 
+/* = Cards
+-------------------------------------------------------------- */
 .card-sq, .card-sq .card-header, .card-sq .card-footer{
 	border-radius:0;
 }
@@ -512,6 +514,46 @@ button{
 	stroke-width: 2px;
 	fill-rule: evenodd;
 	stroke-linecap:round;
+}
+/* = iPhone 11 & 12 Devices
+-------------------------------------------------------------- */
+
+.blocsapp-device-iphone11,.blocsapp-device-iphone12{
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:center;
+	display: block;
+	width:100%;
+	height:auto;
+	padding: 9.6%;
+}
+.blocsapp-device-iphone11::after,.blocsapp-device-iphone12::after{
+	content:"";
+	position:absolute;
+	width:100%;
+	height:5%;
+	left:0;
+	top:5%;
+	margin-top:-0.5%;
+	background-repeat:no-repeat;
+	background-size:40%;
+	background-position:top center;
+	background-image:url("img/iphone-notch.png");
+}
+.blocsapp-device-iphone11 img,.blocsapp-device-iphone12 img{
+	width:100%;
+	height:auto;
+	margin: 0 auto;
+	border-radius:9%/4%;
+}
+.blocsapp-device-iphone11 .embed-responsive,.blocsapp-device-iphone12 .embed-responsive{
+	padding-bottom: 154.25%;
+	width: 71.0%;
+	right: -14.4%;
+	margin: -3.5% 0;
+}
+.blocsapp-device-iphone12.iphone12-black{
+	background-image:url("img/Apple-iPhone-12-Black.png");
 }
 /* = iPad Pro Devices
 -------------------------------------------------------------- */
@@ -1123,7 +1165,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"Roboto";
 	font-size:25px;
 	font-weight:500;
-	color:#F3BD00!important;
+	color:#FF9300!important;
 }
 .container-div-bloc-3-style{
 	height:50px;
@@ -1216,11 +1258,116 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-size:30px;
 }
 .img-rend-style{
-	width:653px;
+	width:1140px;
 }
 .p-bloc-55-style{
 	width:46.49%;
 	font-size:20px;
+}
+.headgoogle{
+	color:#4185F3!important;
+	font-family:"Roboto";
+}
+.p-85-style{
+	font-size:20px;
+	width:100%;
+}
+.img-libtraff-style{
+	width:560px;
+}
+.img-needs-26pa-style{
+	width:560px;
+}
+.divider-bloc-62-padding{
+	padding-top:52px;
+	padding-bottom:52px;
+}
+.bloc-style{
+	height:80px;
+}
+.bloc-bloc-62-style{
+	height:80px;
+}
+.bloc-0-style{
+	height:140px;
+}
+.container-div-bloc-64-style{
+	height:100px;
+}
+.h1-48-style{
+	font-size:80px;
+}
+.h3-color{
+	color:#ffffff;
+}
+.h1-problem-style{
+	font-size:40px;
+}
+.card-body-style{
+	height:280px;
+}
+.container-div-bloc-67-style{
+	height:100px;
+}
+.container-div-bloc-69-style{
+	height:70px;
+}
+.h3- hidden-user-color{
+	color:#afcfff;
+}
+.container-div-33258-style{
+	height:60px;
+}
+.p-bloc-70-style{
+	font-size:32px;
+}
+.img-reference-de-style{
+	width:900px;
+}
+.container-div-bloc-72-style{
+	height:100px;
+}
+.img-placeholder-us-style{
+	width:200px;
+	height:200px;
+}
+.img-197-style{
+	width:200px;
+	height:200px;
+}
+.img-198-style{
+	width:200px;
+	height:200px;
+}
+.img-libuserte-style{
+	width:1080px;
+}
+.img-userfl-style{
+	width:1080px;
+}
+.img-iteratio-style{
+	width:500px;
+}
+.p-bloc-73-style{
+	width:100%;
+}
+.container-div-bloc-73-style{
+	height:100px;
+}
+.p-bloc-75-style{
+	font-size:20px;
+}
+.img-209-style{
+	width:2880px;
+}
+.img-bloc-80-style{
+	width:2880px;
+}
+.img-bloc-83-style{
+	width:2880px;
+}
+.container-div-bloc-84-style{
+	height:100px;
 }
 
 /* = Colour
@@ -1236,6 +1383,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bgc-cardinal{
 	background-color:#BE1E2C;
+}
+.bgc-bleu-de-france{
+	background-color:#4185F3;
+}
+.bgc-anti-flash-white{
+	background-color:#F2F2F2;
+}
+.bgc-baby-blue-eyes{
+	background-color:#A0C3FF;
 }
 
 /* Text colour styles */
@@ -1260,6 +1416,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .tc-burnt-sienna{
 	color:#EB7153!important;
+}
+.tc-bleu-de-france{
+	color:#4185F3!important;
 }
 
 /* Link colour styles */
@@ -1294,6 +1453,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .icon-white{
 	color:#FFFFFF!important;
 	border-color:#FFFFFF!important;
+}
+.icon-baby-blue-eyes{
+	color:#A0C3FF!important;
+	border-color:#A0C3FF!important;
 }
 
 /* Bloc image backgrounds */
@@ -1360,6 +1523,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bg-render-780{
 	background-image:url("img/render.780.png");
+}
+.bg-libreservation{
+	background-image:url("img/libreservation.png");
+}
+.bg-polyulib{
+	background-image:url("img/polyulib.jpg");
 }
 
 /* = Custom Bric Data
