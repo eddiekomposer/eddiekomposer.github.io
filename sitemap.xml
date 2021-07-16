@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>eddieko.com</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -60,7 +60,7 @@
 </url>
 <url>
 	<loc>eddieko.com/me.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -78,7 +78,7 @@
 </url>
 <url>
 	<loc>eddieko.com/gallery.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -244,7 +244,7 @@
 </url>
 <url>
 	<loc>eddieko.com/dandelion.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -362,7 +362,7 @@
 </url>
 <url>
 	<loc>eddieko.com/machinarium.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -428,36 +428,112 @@
 </url>
 <url>
 	<loc>eddieko.com/soundhub.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>eddieko.com/img/sh1.png</image:loc>
-	<image:title>%2520sh1</image:title>
+	<image:loc>eddieko.com/img/ad_1.png</image:loc>
+	<image:title>ad_1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/sh2.png</image:loc>
-	<image:title>%2520sh2</image:title>
+	<image:loc>eddieko.com/img/soundhubfeature1.png</image:loc>
+	<image:title>soundhubfeature1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/sh3.png</image:loc>
-	<image:title>%2520sh3</image:title>
+	<image:loc>eddieko.com/img/streamingservices.png</image:loc>
+	<image:title>streamingservices</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/sh4.png</image:loc>
-	<image:title>%2520sh4</image:title>
+	<image:loc>eddieko.com/img/soundhubfeature2.png</image:loc>
+	<image:title>soundhubfeature2</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/sh5.png</image:loc>
-	<image:title>%2520sh6</image:title>
+	<image:loc>eddieko.com/img/soundhubfeature3.png</image:loc>
+	<image:title>soundhubfeature3</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/sh6.png</image:loc>
-	<image:title>%2520sh5</image:title>
+	<image:loc>eddieko.com/img/connecttech.png</image:loc>
+	<image:title>streamingservices</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/sh7.png</image:loc>
-	<image:title>%2520sh7</image:title>
+	<image:loc>eddieko.com/img/soundhubfeature4.png</image:loc>
+	<image:title>soundhubfeature4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/music_apps.jpg</image:loc>
+	<image:title>music_apps</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/brainstorm_soundhub.png</image:loc>
+	<image:title>brainstorm_soundhub</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/frictionmap.png</image:loc>
+	<image:title>frictionmap</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/pdresearch1.jpg</image:loc>
+	<image:title>pdresearch1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/pdresearch2.jpg</image:loc>
+	<image:title>pdresearch2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/persona.png</image:loc>
+	<image:title>persona</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/info_architecture.png</image:loc>
+	<image:title>info_architecture</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/mockup.png</image:loc>
+	<image:title>mockup</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/test.png</image:loc>
+	<image:title>test</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/soundhub_wireframe.png</image:loc>
+	<image:title>soundhub_wireframe</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/logo.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/soundhubcolor.png</image:loc>
+	<image:title>soundhubcolor</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/soundhub_font.png</image:loc>
+	<image:title>soundhubcolor</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/flow_onboarding.png</image:loc>
+	<image:title>flow_onboarding</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/flow_browsing.png</image:loc>
+	<image:title>flow_browsing</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/flow_library.png</image:loc>
+	<image:title>flow_library</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/flow_playing.png</image:loc>
+	<image:title>flow_playing</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/flow_managing.png</image:loc>
+	<image:title>flow_managing</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/flow_device.png</image:loc>
+	<image:title>flow_device</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/</image:loc>
@@ -470,7 +546,7 @@
 </url>
 <url>
 	<loc>eddieko.com/section.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -524,7 +600,7 @@
 </url>
 <url>
 	<loc>eddieko.com/urbankite.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -638,7 +714,7 @@
 </url>
 <url>
 	<loc>eddieko.com/kai.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -688,7 +764,7 @@
 </url>
 <url>
 	<loc>eddieko.com/sam.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -742,7 +818,7 @@
 </url>
 <url>
 	<loc>eddieko.com/travel-guide.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -836,7 +912,7 @@
 </url>
 <url>
 	<loc>eddieko.com/mideon.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -930,7 +1006,7 @@
 </url>
 <url>
 	<loc>eddieko.com/libreserve.html</loc>
-	<lastmod>2021-05-10</lastmod>
+	<lastmod>2021-07-16</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>

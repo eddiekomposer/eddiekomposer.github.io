@@ -1360,6 +1360,80 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .p-110-style{
 	font-size:30px;
 }
+.h1-bloc-15-style{
+	font-size:80px;
+}
+.gradientbackground{
+	background:radial-gradient(#FFFFFF 0%, #E6F9FF 100%);
+}
+.img-bloc-15-style{
+	width:900px;
+}
+.container-div-bloc-15-style{
+	height:150px;
+}
+.p-bloc-15-style{
+	font-size:20px;
+	width:100%;
+}
+.img-90-style{
+	width:200px;
+}
+.titlegradient{
+	background:linear-gradient(136deg, #73CAF6 26%, #FDBAFF 99%);
+}
+.container-div-0-bloc-15-style{
+	height:100px;
+}
+.img-soundhubfeatur-style{
+	height:500px;
+}
+.img-91-style{
+	height:500px;
+}
+.img-92-style{
+	height:500px;
+}
+.img-94-style{
+	height:500px;
+}
+.container-div-bloc-20-style{
+	height:300px;
+}
+.container-div-0-bloc-20-style{
+	height:250px;
+}
+.p-bloc-23-style{
+	font-size:20px;
+	width:100%;
+}
+.img-frictionm-style{
+	width:1106px;
+}
+.h1-design-process-style{
+	font-size:40px;
+}
+.img-pdresearc-style{
+	border-radius:30px 30px 30px 30px;
+}
+.img-98-style{
+	border-radius:30px 30px 30px 30px;
+}
+.container-div-bloc-23-style{
+	height:30px;
+}
+.container-div-0-bloc-23-style{
+	height:30px;
+}
+.img-flow-onboardi-style{
+	height:500px;
+}
+.img-flow-browsi-style{
+	height:774px;
+}
+.img-flow-libra-style{
+	height:500px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -1372,14 +1446,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bgc-white{
 	background-color:#FFFFFF;
 }
+.bgc-anti-flash-white{
+	background-color:#F2F2F2;
+}
 .bgc-cardinal{
 	background-color:#BE1E2C;
 }
 .bgc-bleu-de-france{
 	background-color:#4185F3;
-}
-.bgc-anti-flash-white{
-	background-color:#F2F2F2;
 }
 .bgc-baby-blue-eyes{
 	background-color:#A0C3FF;
@@ -1396,14 +1470,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .tc-white-2{
 	color:rgba(255,255,255,0.75)!important;
 }
+.tc-black-2{
+	color:#000000!important;
+}
 .tc-khaki-htmlcss-khaki{
 	color:#C2B59B!important;
 }
 .tc-cardinal{
 	color:#BE1E2C!important;
-}
-.tc-black-2{
-	color:#000000!important;
 }
 .tc-burnt-sienna{
 	color:#EB7153!important;
@@ -1467,9 +1541,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bg-WeChat4731193449d28ff4960249d611d3d1b1{
 	background-image:url("img/WeChat4731193449d28ff4960249d611d3d1b1.png");
 }
-.bg-iPhone-XS-Mockup{
-	background-image:url("img/iPhone-XS-Mockup.png");
-}
 .bg-海洋{
 	background-image:url("img/海洋.jpg");
 }
@@ -1520,6 +1591,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bg-polyulib{
 	background-image:url("img/polyulib.jpg");
+}
+.bg-soundhub-cover{
+	background-image:url("img/soundhub_cover.png");
+}
+.bg-ad-2{
+	background-image:url("img/ad_2.png");
 }
 
 /* = Custom Bric Data
