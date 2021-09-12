@@ -65,7 +65,7 @@ if ($('#particles-js').length)
 	      },
 	      "move": {
 	        "enable": true,
-	        "speed": 3,
+	        "speed": 6,
 	        "direction": "none",
 	        "random": true,
 	        "straight": false,

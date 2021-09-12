@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>eddieko.com</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -15,6 +15,10 @@
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/libreservation.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/class_ad_2.png</image:loc>
 	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
@@ -60,9 +64,13 @@
 </url>
 <url>
 	<loc>eddieko.com/me.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>eddieko.com/img/資產%201@600x.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/portrait.JPG</image:loc>
 	<image:title>photo.jpeg</image:title>
@@ -78,7 +86,7 @@
 </url>
 <url>
 	<loc>eddieko.com/gallery.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -244,7 +252,7 @@
 </url>
 <url>
 	<loc>eddieko.com/dandelion.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -362,7 +370,7 @@
 </url>
 <url>
 	<loc>eddieko.com/machinarium.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -428,7 +436,7 @@
 </url>
 <url>
 	<loc>eddieko.com/soundhub.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -546,7 +554,7 @@
 </url>
 <url>
 	<loc>eddieko.com/section.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -600,7 +608,7 @@
 </url>
 <url>
 	<loc>eddieko.com/urbankite.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -714,7 +722,7 @@
 </url>
 <url>
 	<loc>eddieko.com/kai.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -764,7 +772,7 @@
 </url>
 <url>
 	<loc>eddieko.com/sam.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -818,7 +826,7 @@
 </url>
 <url>
 	<loc>eddieko.com/travel-guide.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -912,7 +920,7 @@
 </url>
 <url>
 	<loc>eddieko.com/mideon.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1006,7 +1014,7 @@
 </url>
 <url>
 	<loc>eddieko.com/libreserve.html</loc>
-	<lastmod>2021-07-16</lastmod>
+	<lastmod>2021-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1124,6 +1132,240 @@
 	<image:image>
 	<image:loc>eddieko.com/img/flow3.png</image:loc>
 	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>eddieko.com/classroom.html</loc>
+	<lastmod>2021-09-11</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>eddieko.com/img/class_meeting_idle.png</image:loc>
+	<image:title>cover</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/featuretitle1@3x.png</image:loc>
+	<image:title>featuretitle1@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature_start@3x.png</image:loc>
+	<image:title>feature_start@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature_teachingplan@3x.png</image:loc>
+	<image:title>feature_teachingplan@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature_theme@3x.png</image:loc>
+	<image:title>feature_theme@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/featuretitle2@3x.png</image:loc>
+	<image:title>featuretitle2@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature_webpage@3x.png</image:loc>
+	<image:title>feature_webpage@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature_file@3x.png</image:loc>
+	<image:title>feature_file@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature_interaction@3x.png</image:loc>
+	<image:title>feature_interaction@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/featuretitle3@3x.png</image:loc>
+	<image:title>featuretitle3@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/feature_humanistic@3x.png</image:loc>
+	<image:title>feature_humanistic@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_Start.png</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_Mail.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_chat-2.png</image:loc>
+	<image:title>slide%203</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_dashboard_calendar.png</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_dashboard_calendar_new.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_dashboard_stat.png</image:loc>
+	<image:title>slide%203</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_dashboard_news.png</image:loc>
+	<image:title>prototype_dashboard_news</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_syllabus.png</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_prepare.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_class_idle.png</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_class_meeting_activated.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_class_sharing.png</image:loc>
+	<image:title>slide%203</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_class_sharing-4.png</image:loc>
+	<image:title>prototype_class_sharing%204</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_class_sharing-3.png</image:loc>
+	<image:title>prototype_class_sharing%203</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_class_sharing-2.png</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_class_sharing-1.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_whiteboard.png</image:loc>
+	<image:title>slide%203</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_edit%20in%20the%20app.png</image:loc>
+	<image:title>prototype_edit%2520in%2520the%2520app</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_chat.png</image:loc>
+	<image:title>prototype_chat</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_resources.png</image:loc>
+	<image:title>prototype_resources</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_class_replay.png</image:loc>
+	<image:title>prototype_class_replay</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_assignment.png</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/prototype_assignment-1.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/SAP.png</image:loc>
+	<image:title>SAP</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/covid-edu-data.jpeg</image:loc>
+	<image:title>covid%20edu-data.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/onlinelearningtrends.png</image:loc>
+	<image:title>covid%20edu-data.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/quote@3x.png</image:loc>
+	<image:title>quote@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/class-persona@3x.png</image:loc>
+	<image:title>class%20persona@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/empathymap@3x.png</image:loc>
+	<image:title>empathymap@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/class-stakeholder@3x.png</image:loc>
+	<image:title>class%20stakeholder@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/class-interview@3x.png</image:loc>
+	<image:title>class%20interview@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/class-interview-quote@3x.png</image:loc>
+	<image:title>class%20interview-quote@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/class-interaction@3x.png</image:loc>
+	<image:title>class%20interaction@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/zoomresearch@3x.png</image:loc>
+	<image:title>zoom</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/discordresearch@3x.png</image:loc>
+	<image:title>discord</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/dotedresearch@3x.png</image:loc>
+	<image:title>doted</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/class-infoarch@3x.png</image:loc>
+	<image:title>class%20infoarch@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/classtest1.jpg</image:loc>
+	<image:title>classtest1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/classtest2.jpg</image:loc>
+	<image:title>classtest2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/classtest3.jpg</image:loc>
+	<image:title>classtest3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/classtest4.jpg</image:loc>
+	<image:title>classtest4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/class_lofi@3x.png</image:loc>
+	<image:title>class_lofi@3x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/class_ad_2.png</image:loc>
+	<image:title>class_ad_2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/open_in_figma.png</image:loc>
+	<image:title>open_in_figma</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/</image:loc>
