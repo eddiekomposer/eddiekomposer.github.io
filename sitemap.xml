@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>eddieko.com</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -64,7 +64,7 @@
 </url>
 <url>
 	<loc>eddieko.com/me.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -86,7 +86,7 @@
 </url>
 <url>
 	<loc>eddieko.com/gallery.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -252,7 +252,7 @@
 </url>
 <url>
 	<loc>eddieko.com/dandelion.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -370,7 +370,7 @@
 </url>
 <url>
 	<loc>eddieko.com/machinarium.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -436,9 +436,13 @@
 </url>
 <url>
 	<loc>eddieko.com/soundhub.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>eddieko.com/img/logo.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/ad_1.png</image:loc>
 	<image:title>ad_1</image:title>
@@ -456,16 +460,24 @@
 	<image:title>soundhubfeature2</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/soundhubfeature3.png</image:loc>
-	<image:title>soundhubfeature3</image:title>
+	<image:loc>eddieko.com/img/soundhubfeature3_1.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/soundhubfeature3_2.png</image:loc>
+	<image:title>slide%203</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/connecttech.png</image:loc>
 	<image:title>streamingservices</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/soundhubfeature4.png</image:loc>
-	<image:title>soundhubfeature4</image:title>
+	<image:loc>eddieko.com/img/soundhubfeature4_1.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/soundhubfeature4_2.png</image:loc>
+	<image:title>slide%203</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/music_apps.jpg</image:loc>
@@ -506,10 +518,6 @@
 	<image:image>
 	<image:loc>eddieko.com/img/soundhub_wireframe.png</image:loc>
 	<image:title>soundhub_wireframe</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/logo.png</image:loc>
-	<image:title>logo</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/soundhubcolor.png</image:loc>
@@ -554,7 +562,7 @@
 </url>
 <url>
 	<loc>eddieko.com/section.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -608,7 +616,7 @@
 </url>
 <url>
 	<loc>eddieko.com/urbankite.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -722,7 +730,7 @@
 </url>
 <url>
 	<loc>eddieko.com/kai.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -772,7 +780,7 @@
 </url>
 <url>
 	<loc>eddieko.com/sam.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -826,7 +834,7 @@
 </url>
 <url>
 	<loc>eddieko.com/travel-guide.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -920,7 +928,7 @@
 </url>
 <url>
 	<loc>eddieko.com/mideon.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1014,7 +1022,7 @@
 </url>
 <url>
 	<loc>eddieko.com/libreserve.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1144,7 +1152,7 @@
 </url>
 <url>
 	<loc>eddieko.com/classroom.html</loc>
-	<lastmod>2021-09-30</lastmod>
+	<lastmod>2021-10-17</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1152,44 +1160,36 @@
 	<image:title>cover</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/featuretitle1@3x.png</image:loc>
-	<image:title>featuretitle1@3x</image:title>
+	<image:loc>eddieko.com/img/classroom_problem1.png</image:loc>
+	<image:title>classroom_problem1</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/feature_start@3x.png</image:loc>
-	<image:title>feature_start@3x</image:title>
+	<image:loc>eddieko.com/img/classroomfeature1.png</image:loc>
+	<image:title>slide%201</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/feature_teachingplan@3x.png</image:loc>
-	<image:title>feature_teachingplan@3x</image:title>
+	<image:loc>eddieko.com/img/classroomfeature2.png</image:loc>
+	<image:title>slide%202</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/feature_theme@3x.png</image:loc>
-	<image:title>feature_theme@3x</image:title>
+	<image:loc>eddieko.com/img/classroomfeature3.png</image:loc>
+	<image:title>slide%203</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/featuretitle2@3x.png</image:loc>
-	<image:title>featuretitle2@3x</image:title>
+	<image:loc>eddieko.com/img/classroom_problem2.png</image:loc>
+	<image:title>classroom_problem2</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/feature_webpage@3x.png</image:loc>
-	<image:title>feature_webpage@3x</image:title>
+	<image:loc>eddieko.com/img/classroomfeature4.png</image:loc>
+	<image:title>slide%201</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/feature_file@3x.png</image:loc>
-	<image:title>feature_file@3x</image:title>
+	<image:loc>eddieko.com/img/classroomfeature5.png</image:loc>
+	<image:title>slide%202</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/feature_interaction@3x.png</image:loc>
-	<image:title>feature_interaction@3x</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/featuretitle3@3x.png</image:loc>
-	<image:title>featuretitle3@3x</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/feature_humanistic@3x.png</image:loc>
-	<image:title>feature_humanistic@3x</image:title>
+	<image:loc>eddieko.com/img/classroomfeature6.png</image:loc>
+	<image:title>slide%203</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/prototype_Start.png</image:loc>
