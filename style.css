@@ -741,17 +741,22 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	max-width:1140px;
 }
 .navbar-brand img{
-	height:20px;
+	height:16px;
 }
 .h4-style{
 	width:100%;
+	font-family:Montserrat;
+	font-size:16px;
+	line-height:0px;
 }
 .link-style{
 	width:100%;
 	padding-top:12px;
 	padding-bottom:12px;
-	font-weight:bold;
+	font-weight:normal;
 	color:#ffffff;
+	font-family:"Montserrat";
+	font-size:12px;
 }
 .hero-header-text{
 	font-size:100px;
@@ -1459,11 +1464,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .eddienav{
 	background-color:rgba(0,0,1,0.70);
+	padding-top:0.1rem;
+	padding-bottom:0.1rem;
+	font-family:"Montserrat";
 }
 .menu{
 	font-family:"Montserrat";
-	font-weight:500;
+	font-weight:normal;
 	padding-left:1em;
+	font-size:14px;
 }
 .h1-eddie-ko-style{
 	font-family:Montserrat;
@@ -1488,7 +1497,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	left:1rem;
 	right:0px;
 	z-index:2;
-	top:82%;
+	top:84%;
 }
 .container-div-0-bloc-1-style{
 	height:70px;
@@ -1578,6 +1587,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .ltc-mauvelous:hover{
 	color:#c28480!important;
+}
+.ltc-black{
+	color:#000000!important;
+}
+.ltc-black:hover{
+	color:#000000!important;
 }
 
 /* Icon colour styles */
