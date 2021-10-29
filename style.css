@@ -795,7 +795,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:439px;
 }
 .p-bloc-7-style{
-	width:70%;
+	width:72.89%;
 	font-size:25px;
 	font-family:"Roboto";
 }
@@ -1471,19 +1471,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .menu{
 	font-family:"Montserrat";
 	font-weight:normal;
-	padding-left:1em;
+	padding-left:3em;
 	font-size:14px;
 }
 .h1-eddie-ko-style{
 	font-family:Montserrat;
-	font-size:40px;
+	font-size:80px;
 	font-weight:500;
 }
 .h4-5660-style{
 	font-family:Montserrat;
 }
 .container-div-bloc-0-style{
-	height:220px;
+	height:250px;
 }
 .highlight{
 	font-family:Montserrat;
@@ -1503,7 +1503,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	height:70px;
 }
 .container-div-628-style{
-	height:70px;
+	height:150px;
 }
 .up1{
 	position:relative;
@@ -1518,6 +1518,33 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h1--hello-world--style{
 	font-family:Montserrat;
+}
+.highlight:hover{
+	font-family:"Montserrat";
+	font-size:17px;
+	color:rgba(1,24,27,0.80)!important;
+}
+.img-soundh-style{
+	border-radius:0px 0px 0px 0px;
+}
+.img-libreservati-style{
+	border-radius:0px 0px 0px 0px;
+}
+.row-bloc-113-style{
+	width:100%;
+}
+.classroomproblem{
+	padding-right:3%;
+	padding-left:3%;
+}
+.img-bloc-113-style{
+	width:327px;
+}
+.img-235-style{
+	width:327px;
+}
+.img-236-style{
+	width:327px;
 }
 
 /* = Colour
