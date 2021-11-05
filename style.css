@@ -14,7 +14,7 @@ body{
     -moz-osx-font-smoothing: grayscale;
 }
 .page-container{overflow: hidden;} /* Prevents unwanted scroll space when scroll FX used. */
-a,button{transition: background .3s ease-in-out;outline: none!important;} /* Prevent ugly blue glow on chrome and safari */
+a,button{transition: background .3s ease-in-out;outline: none!important;} /* Prevent blue selection glow on Chrome and Safari */
 a:hover{text-decoration: none; cursor:pointer;}
 
 
@@ -290,28 +290,37 @@ a:hover{text-decoration: none; cursor:pointer;}
 /* = NavBar
 -------------------------------------------------------------- */
 
-.hero .hero-nav{
-	padding-left:inherit;
-	padding-right:inherit;
-}
 .navbar-dark .nav .dropdown-menu .nav-link{
 	color: rgb(64, 64, 64);
 }
-/* Handle Multi Level Navigation */.navbar-light .navbar-nav .nav-link {
-	color: rgb(64, 64, 64);
+/* Handle Multi Level Navigation */
+.dropdown-menu .dropdown-menu{
+	border:none}
+@media (min-width:576px){
+	
+.navbar-expand-sm .dropdown-menu .dropdown-menu{
+	border:1px solid rgba(0,0,0,.15);
+	position:absolute;
+	left:100%;
+	top:-7px}.navbar-expand-sm .dropdown-menu .submenu-left{
+	right:100%;
+	left:auto}}@media (min-width:768px){
+	.navbar-expand-md .dropdown-menu .dropdown-menu{
+	border:1px solid rgba(0,0,0,.15);
+	border:1px solid rgba(0,0,0,.15);
+	position:absolute;
+	left:100%;
+	top:-7px}.navbar-expand-md .dropdown-menu .submenu-left{
+	right:100%;
+	left:auto}}@media (min-width:992px){
+	.navbar-expand-lg .dropdown-menu .dropdown-menu{
+	border:1px solid rgba(0,0,0,.15);
+	position:absolute;
+	left:100%;
+	top:-7px}.navbar-expand-lg .dropdown-menu .submenu-left{
+	right:100%;
+	left:auto}
 }
-.btco-menu li > a {
-	padding: 10px 15px;
-	color: #000;
-}
-.btco-menu .active a:focus,.btco-menu li a:focus ,.navbar > .show > a:focus{
-	background: transparent;
-	outline: 0;
-}
-.dropdown-menu .show > .dropdown-toggle::after{
-	transform: rotate(-90deg);
-}
-
 /* = Bric adjustment margins
 -------------------------------------------------------------- */
 
@@ -390,6 +399,10 @@ button{
 	min-width: 162px;
 }
 
+/*  Image Protection */
+.img-protected{
+	-webkit-touch-callout: none;
+}
 
 /* = Text & Icon Styles
 -------------------------------------------------------------- */
@@ -501,6 +514,7 @@ button{
 	width:100%;
 	height:auto;
 	padding: 9.6%;
+	position: relative;
 }
 .blocsapp-device-iphone11::after,.blocsapp-device-iphone12::after{
 	content:"";
@@ -521,11 +535,14 @@ button{
 	margin: 0 auto;
 	border-radius:9%/4%;
 }
+.blocsapp-device-iphone11 .embed-responsive::before,.blocsapp-device-iphone12 .embed-responsive::before{
+	padding-top: 106.25%;
+}
 .blocsapp-device-iphone11 .embed-responsive,.blocsapp-device-iphone12 .embed-responsive{
-	padding-bottom: 154.25%;
-	width: 71.0%;
-	right: -14.4%;
-	margin: -3.5% 0;
+	padding-bottom: 90%;
+	width: 90.0%;
+	right: -5%;
+	border-radius: 2%/3%;
 }
 .blocsapp-device-iphone12.iphone12-black{
 	background-image:url("img/Apple-iPhone-12-Black.png");
@@ -547,13 +564,24 @@ button{
 	border-radius:2%/3%}.blocsapp-device-ipad-pro .embed-responsive{
 	width:100%;
 	left:0;
-	border-radius:2%/3%}.blocsapp-device-ipad-pro.ipad-pro-portrait{
+	border-radius:3%/2%;
+}
+.blocsapp-device-ipad-pro .embed-responsive::before{
+	padding-top: 106.25%;
+}
+.blocsapp-device-ipad-pro.ipad-pro-portrait{
 	padding:9%}.blocsapp-device-ipad-pro.ipad-pro-portrait img{
 	border-radius:3%/2%}.blocsapp-device-ipad-pro.ipad-pro-portrait .embed-responsive{
-	padding-bottom:140%;
-	width:99%;
-	left:0.5%}.blocsapp-device-ipad-pro.ipad-pro-landscape{
+	padding-bottom:35%;
+}
+.blocsapp-device-ipad-pro.ipad-pro-landscape{
 	background-image:url("img/Apple-iPad-Pro-Landscape.png");
+}
+.blocsapp-device-ipad-pro.ipad-pro-landscape .embed-responsive::before{
+	padding-top: 56.25%;
+}
+.blocsapp-device-ipad-pro.ipad-pro-landscape .embed-responsive{
+	padding-bottom: 15%;
 }
 /* = MacBook Devices
 -------------------------------------------------------------- */
@@ -572,10 +600,11 @@ button{
 	height:auto;
 	margin: 0 auto;
 }
+.blocsapp-device-mb .embed-responsive::before{
+	padding-top: 56.25%;
+}
 .blocsapp-device-mb .embed-responsive{
-	padding-bottom: 65%;
-	width: 103.1%;
-	left: -1.5%;
+	padding-bottom: 8%;
 }
 /* = MacBook Space Grey
 -------------------------------------------------------------- */
@@ -656,6 +685,9 @@ a[data-lightbox]:hover img{
 	stroke-width: 3px;
 	fill-rule: evenodd;
 	stroke-linecap:round;
+}
+.lightbox-close-svg{
+	pointer-events:none;
 }
 
 /* Framless */
@@ -2023,6 +2055,33 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.card-body-style{
 		height:320px;
+	}
+	.h1-bloc-15-style{
+		font-size:40px;
+	}
+	.h1-bloc-113-style{
+		font-size:20px;
+	}
+	.h1-74-style{
+		font-size:20px;
+	}
+	.h1-solution-style{
+		font-size:20px;
+	}
+	.h1-76-style{
+		font-size:20px;
+	}
+	.h1-77-style{
+		font-size:20px;
+	}
+	.divider-bloc-114-padding{
+		padding-top:76px;
+		padding-bottom:76px;
+	}
+	
+	/* Mobile Row Margin Offsets */
+	.voffset-lg-xs{
+		margin-top:80px;
 	}
 	
 }
