@@ -7,83 +7,72 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 	<link rel="canonical" href="eddieko.com/">
 	<meta name="robots" content="index, follow">
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:title" content="Eddie Ko">
-	<meta name="twitter:description" content="">
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Eddie Ko">
-	<meta property="og:title" content="Eddie Ko">
-	<meta property="og:description" content="">
-	<meta property="og:url" content="eddieko.com/index.html"> 
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     
-	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?2974">
-	<link rel="stylesheet" type="text/css" href="style.css?4668">
-	<link rel="stylesheet" type="text/css" href="./css/animate.min.css?7713">
-	<link rel="stylesheet" type="text/css" href="./css/anim_background.css?2241">
-	
-	<link rel="stylesheet" type="text/css" href="./css/all.min.css">
-	<link rel="stylesheet" type="text/css" href="./css/feather.min.css">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?9283">
+	<link rel="stylesheet" type="text/css" href="style.css?3881">
+	<link rel="stylesheet" type="text/css" href="./css/animate.min.css?881">
 	<link rel="stylesheet" type="text/css" href="./css/ionicons.min.css">
-	<link href='https://fonts.googleapis.com/css?family=Montserrat&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Roboto&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-    <title>Eddie Ko</title>
+	<link rel="stylesheet" type="text/css" href="./css/all.min.css">
+	<link href='https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,40&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <title>Home</title>
+<script type="javascript" src="navbar.js"></script>
 <style>
-.eddienav{
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  padding-left:12rem;
-  padding-right: 12rem;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  }
+
+.radial-gradient{
+	background-attachment: fixed;
+	background-color:#FFFFFF;
+	background-image:
+			radial-gradient(closest-side, #8d9bb2, rgba(235,105,78,0)),
+        	radial-gradient(closest-side, #3498d8, rgba(243,11,164,0)),
+        	radial-gradient(closest-side, #fcc29a, rgba(254,234,131,0)),
+        	radial-gradient(closest-side, #33425b, rgba(170,142,245,0));
+	background-size: 130vw 130vh, 120vw 120vh, 100vw 150vh, 120vw 130vh;
+	background-position: -80vw -80vh, 30vw -20vh, -20vw 20vh, 30vw 20vh;
+	background-repeat: no-repeat;
+	
+	animation: 30s backgroundanimation infinite;
+    
+}
+
+@keyframes backgroundanimation {
+	0%,
+	100% {
+		background-size: 130vw 130vh, 120vw 120vh, 100vw 150vh, 120vw 130vh;
+		background-position: -80vw -80vh, 30vw -20vh, -20vw 20vh, 30vw 20vh;
+		}
+	25%{
+		background-size: 120vw 120vh, 130vw 150vh, 130vw 120vh, 100vw 110vh;
+		background-position: -30vw -30vh, 40vw -10vh, 0vw 10vh, -10vw 20vh;
+		}
+	50%{
+		background-size: 130vw 130vh, 140vw 100vh, 100vw 150vh, 90vw 110vh;
+		background-position: 10vw -60vh, 20vw 10vh, 10vw 30vh, 10vw -20vh;
+		}
+	75%{
+		background-size: 140vw 140vh, 100vw 130vh, 100vw 150vh, 130vw 110vh;
+		background-position: -70vw -70vh, 0vw -10vh, 30vw -20vh, 20vw 30vh;
+		}
+
+}
 
 </style>
-
     
 <!-- Analytics -->
  
 <!-- Analytics END -->
     
 </head>
-<body>
-
-<!-- Preloader -->
-<div id="page-loading-blocs-notifaction" class="page-preloader"></div>
-<!-- Preloader END -->
-
-
+<body class=" radial-gradient">
 <!-- Main container -->
 <div class="page-container">
     
 <!-- bloc-0 -->
-<div class="bloc full-width-bloc" id="bloc-0">
-	<div class="container bloc-no-padding-lg">
-		<div class="row category">
-			<div class="col-lg-1">
-				<a href="#" class="a-btn a-block highlight text-lg-left" data-scroll-speed="1000" onclick="scrollToTarget('#uiux',this)">UI/UX</a><a href="#" class="a-btn a-block text-lg-left highlight" data-scroll-speed="1000" onclick="scrollToTarget('#product',this)">Product</a><a href="#" class="a-btn a-block text-lg-left highlight" data-scroll-speed="1000" onclick="scrollToTarget('#graphic',this)">Graphic</a>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col">
-				<div class="container-div-bloc-0-style">
-					<div class="row">
-						<div class="col-12">
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col">
-				<h1 class="mg-md h1-eddie-ko-style tc-black text-lg-center">
-					<strong>Eddie Ko</strong>
-				</h1>
-				<h2 class="mg-md h4-5660-style tc-black text-lg-center">
-					To create better human-centered experience.
-				</h2>
+<div class="bloc l-bloc " id="bloc-0">
+	<div class="container bloc-no-padding-lg bloc-no-padding bloc-no-padding-md">
+		<div class="row align-items-center mt-lg-2 mt-md-2 mt-sm-2 mt-2">
+			<div class="col-lg-12 text-lg-center align-self-center col text-md-center text-sm-center text-center navbar">
+				<a href="./"><picture><source type="image/webp" srcset="img/logo_EKO_reversed.webp"><img src="img/logo_EKO_reversed.png" class="img-fluid img-protected img-style float-lg-none ms-lg-4 me-lg-4 ms-md-4 me-md-4 ms-sm-3 me-sm-3 ms-3 me-3" alt="Eddie Ko" width="32" height="12"></picture></a><a href="./" class="btn btn-d btn-sq btn-style-none ms-lg-4 me-lg-4 ms-md-4 me-md-4 ms-sm-3 me-sm-3 ms-3 me-3 btn-sm">Works</a><a href="./misc/" class="btn btn-d btn-style-none ms-lg-4 me-lg-4 ms-md-4 me-md-4 ms-sm-3 me-sm-3 ms-3 me-3 btn-sm btn-sq">Misc</a><a href="./about/" class="btn btn-d btn-sq btn-style-none ms-lg-4 me-lg-4 ms-md-4 me-md-4 ms-sm-3 me-sm-3 ms-3 me-3 btn-sm">About</a>
 			</div>
 		</div>
 	</div>
@@ -91,188 +80,231 @@
 <!-- bloc-0 END -->
 
 <!-- bloc-1 -->
-<div class="bloc full-width-bloc tc-white" id="bloc-1">
-	<div class="container bloc-lg bloc-no-padding-lg">
-		<div class="row voffset-lg" id="uiux">
+<div class="bloc l-bloc bloc-fill-screen none full-width-bloc" id="bloc-1">
+	<div class="container">
+		<div class="row ms-lg-5 me-lg-5 pt-lg-2 none animSpeed04 animDelay02">
+			<div class="text-start text-lg-end offset-lg-1 col-lg-10">
+				<p class="animated fadeInUp" data-appear-anim-style="fadeInUp">
+					Currently a UX designer @LightBox<br>
+				</p>
+				<p class="animated none fadeInUp" data-appear-anim-style="fadeInUp">
+					MS in Industrial Design @ ArtCenter College of Design
+				</p>
+				<p class="animated animDelay02 fadeInUp" data-appear-anim-style="fadeInUp">
+					eddiekodesign@outlook.com
+				</p>
+				<p class="animated animDelay02 fadeInUp" data-appear-anim-style="fadeInUp">
+					626-538-0169
+				</p>
+				<p class="animated animDelay04 fadeInUp" data-appear-anim-style="fadeInUp">
+					Irvine, CA
+				</p>
+			</div>
+		</div>
+		<div class="row ms-lg-5 me-lg-5 mt-lg-5 pt-lg-2 none animated fadeIn" data-appear-anim-style="fadeIn">
+			<div class="offset-lg-1 col-lg-10">
+				<h1 class="mb-4 mb-lg-3 homepage-bigheader">
+					Eddie Ko
+				</h1>
+				<h3 class="mb-4 h3-style">
+					To create better human-centred experience.
+				</h3>
+			</div>
+		</div>
+		<div class="row">
 			<div class="col">
-				<div class="container-div-628-style">
+				<div class="text-center">
+					<a href="#" data-scroll-speed="1000" onclick="scrollToTarget('0',this)"><span class="ion ion-chevron-down icon-sm none animated floating animLoopInfinite animSpeedSlow" data-appear-anim-style="floating"></span></a>
 				</div>
-				<h2 class="tc-black h4-heading-ui-ux-style text-lg-center mg-clear">
-					<strong>UI/UX Design</strong><br><br>
-				</h2>
-			</div>
-		</div>
-		<div class="row voffset-md">
-			<div class="col-lg-5 offset-lg-1">
-				<a href="soundhub.html"><img src="img/lazyload-ph.png" data-src="img/soundhub.png" class="img-fluid mx-auto d-block mg-sm rounded img-soundh-style lazyload" alt="placeholder image" /></a><a href="soundhub.html" class="a-btn a-block h3-2-style offset ltc-white">SoundHub</a>
-				<p class="p-1-style mg-clear offset">
-					Home Audio Terminal App<br>
-				</p>
-			</div>
-			<div class="col-lg-5">
-				<a href="libreserve.html"><img src="img/lazyload-ph.png" data-src="img/libreservation.png" class="img-fluid mx-auto d-block mg-sm rounded img-libreservati-style lazyload" alt="placeholder image" /></a><a href="libreserve.html" class="a-btn a-block h3-2-style offset ltc-white">Lib Reservation Experience</a>
-				<p class="p-1-style mg-clear offset">
-					Google Design Exercise
-				</p>
-			</div>
-		</div>
-		<div class="row up1">
-			<div class="col-lg-5 offset-lg-1">
-				<a href="classroom.html"><img src="img/lazyload-ph.png" data-src="img/class_ad_2.png" class="img-fluid mx-auto d-block mg-sm rounded lazyload" alt="placeholder image" /></a><a href="classroom.html" class="a-btn a-block h3-2-style offset ltc-white">Classroom</a>
-				<p class="mg-clear p-1-style offset">
-					Reinforced Engagement for Teachers &amp; Students
-				</p>
-			</div>
-			<div class="col-lg-5">
-				<a href="dandelion.html"><img src="img/lazyload-ph.png" data-src="img/dandelion.png" class="img-fluid mx-auto d-block mg-sm rounded lazyload" alt="placeholder image" /></a><a href="dandelion.html" class="a-btn a-block h3-2-style offset ltc-white">Dándelion</a>
-				<p class="mg-clear p-1-style offset">
-					Light Learning Experience
-				</p>
-			</div>
-		</div>
-		<div class="row up2">
-			<div class="col-lg-5 offset-lg-1">
-				<a href="machinarium.html"><img src="img/lazyload-ph.png" data-src="img/machinarium.png" class="img-fluid mx-auto d-block mg-sm rounded lazyload" alt="placeholder image" /></a><a href="machinarium.html" class="a-btn a-block h3-2-style offset ltc-white">Machinarium</a>
-				<p class="p-1-style mg-clear offset">
-					Virtual Campus
-				</p>
 			</div>
 		</div>
 	</div>
 </div>
 <!-- bloc-1 END -->
 
-<!-- bloc-1 -->
-<div class="bloc none full-width-bloc tc-white up1" id="bloc-1">
-	<div class="container bloc-lg bloc-no-padding-lg">
+<!-- bloc-2 -->
+<div class="bloc l-bloc none full-width-bloc" id="bloc-2">
+	<div class="container bloc-lg bloc-sm-lg">
 		<div class="row">
-			<div class="col">
-				<div class="container-div-0-bloc-1-style" id="product">
+			<div class="text-start work-categories background-launched col">
+				<div class="div-works">
+					<h1 class="mb-4 header-categorytitle">
+						Launched
+					</h1>
 				</div>
-				<h2 class="tc-black h4-heading-ui-ux-style text-lg-center mg-clear">
-					<strong>Product Design</strong><br><br>
-				</h2>
+				<div class="div-works">
+					<div class="row g-0 works-row">
+						<div class="col project-card col-lg-12" id="-blocs-element-">
+							<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/LBX-cover.webp"><img src="img/lazyload-ph.png" data-src="img/LBX-cover.png" class="img-fluid img-protected mx-auto d-block lazyload" alt="placeholderimage" width="1060" height="596"></picture>
+							<div class="card-content ">
+								<h4 class="mb-4">
+									LightBox Live
+								</h4>
+								<p>
+									LightBox is a leading real estate information and technology platform. Through operational excellence and a passion for innovation, LightBox facilitates transparency, efficiency, insight, and prediction for real estate investment and location anaytics.
+								</p>
+							</div><a href="./lbx/"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/placeholder-image.webp"><img src="img/lazyload-ph.png" data-src="img/placeholder-image.png" class="img-fluid img-protected mx-auto d-block link-to-projects lazyload" alt="placeholder image" width="1060" height="742"></picture></a>
+						</div>
+					</div>
+					<div class="row g-0 works-row">
+						<div class="col project-card">
+							<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/EDR-Cover.webp"><img src="img/lazyload-ph.png" data-src="img/EDR-Cover.png" class="img-fluid img-protected mx-auto d-block lazyload" alt="placeholderimage" width="526" height="296"></picture>
+							<div class="card-content ">
+								<h4 class="mb-4">
+									LightBox EDR
+								</h4>
+								<p>
+									Powerful analysis tools for an easier and money-saving environmental site assessment.
+								</p>
+							</div><a href="./edr/"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/placeholder-image.webp"><img src="img/lazyload-ph.png" data-src="img/placeholder-image.png" class="img-fluid img-protected mx-auto d-block link-to-projects lazyload" alt="placeholder image" width="526" height="368"></picture></a>
+						</div>
+						<div class="col project-card">
+							<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/machinarium.webp"><img src="img/lazyload-ph.png" data-src="img/machinarium.png" class="img-fluid img-protected mx-auto d-block lazyload" alt="placeholderimage" width="526" height="473"></picture>
+							<div class="card-content ">
+								<h4 class="mb-4">
+									Machinarium
+								</h4>
+								<p>
+									Caltech’s interactive Virtual Campus built for educational uses during the pandemic.
+								</p>
+							</div><a href="./machinarium/"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/placeholder-image.webp"><img src="img/lazyload-ph.png" data-src="img/placeholder-image.png" class="img-fluid img-protected mx-auto d-block link-to-projects lazyload" alt="placeholder image" width="526" height="368"></picture></a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
-		<div class="row voffset-md">
-			<div class="col-lg-5 offset-lg-1">
-				<a href="section.html"><img src="img/lazyload-ph.png" data-src="img/section.png" class="img-fluid mx-auto d-block mg-sm rounded lazyload" alt="placeholder image" /></a><a href="section.html" class="a-btn a-block h3-2-style offset ltc-white">Section</a>
-				<p class="mg-clear p-1-style offset">
-					HiFi Bluetooth Speaker
-				</p>
-			</div>
-			<div class="col-lg-5 offset-lg-0">
-				<a href="urbankite.html"><img src="img/lazyload-ph.png" data-src="img/urbankite.png" class="img-fluid mx-auto d-block mg-sm rounded lazyload" alt="placeholder image" /></a><a href="urbankite.html" class="a-btn a-block h3-2-style ltc-white offset">Urban Kite</a>
-				<p class="p-1-style mg-clear offset">
-					Flying Signage System
-				</p>
+		<div class="row">
+			<div class="text-start work-categories col background-personal">
+				<div class="div-works">
+					<h1 class="mb-4 header-categorytitle">
+						Personal
+					</h1>
+				</div>
+				<div class="div-works">
+					<div class="row g-0 works-row">
+						<div class="col project-card col-lg-12">
+							<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/soundhub.webp"><img src="img/lazyload-ph.png" data-src="img/soundhub.png" class="img-fluid img-protected mx-auto d-block lazyload" alt="placeholderimage" width="1060" height="596"></picture>
+							<div class="card-content ">
+								<h4 class="mb-4">
+									SoundHub
+								</h4>
+								<p>
+									A home audio terminal app dedicated to creating an uninterrupted music experience. Different music platforms, different audio device brands… This app makes all of them work together.
+								</p>
+							</div><a href="./soundhub/"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/placeholder-image.webp"><img src="img/lazyload-ph.png" data-src="img/placeholder-image.png" class="img-fluid img-protected mx-auto d-block link-to-projects lazyload" alt="placeholder image" width="1060" height="742"></picture></a>
+						</div>
+					</div>
+					<div class="row g-0 works-row">
+						<div class="col project-card">
+							<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/Mideon.webp"><img src="img/lazyload-ph.png" data-src="img/Mideon.png" class="img-fluid img-protected mx-auto d-block lazyload" alt="placeholderimage" width="526" height="296"></picture>
+							<div class="card-content ">
+								<h4 class="mb-4">
+									Mideon
+								</h4>
+								<p>
+									Make melody writing an easy and enjoyful experience for everyone even those who have never touched music theories.
+								</p>
+							</div><a href="./mideon/"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/placeholder-image.webp"><img src="img/lazyload-ph.png" data-src="img/placeholder-image.png" class="img-fluid img-protected mx-auto d-block link-to-projects lazyload" alt="placeholder image" width="526" height="368"></picture></a>
+						</div>
+						<div class="col project-card">
+							<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/Classroom.webp"><img src="img/lazyload-ph.png" data-src="img/Classroom.png" class="img-fluid img-protected mx-auto d-block lazyload" alt="placeholderimage" width="526" height="296"></picture>
+							<div class="card-content ">
+								<h4 class="mb-4">
+									Classroom
+								</h4>
+								<p>
+									An online teaching tool designed to enhance teachers’ engagement with students.
+								</p>
+							</div><a href="./classroom/"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/placeholder-image.webp"><img src="img/lazyload-ph.png" data-src="img/placeholder-image.png" class="img-fluid img-protected mx-auto d-block link-to-projects lazyload" alt="placeholder image" width="526" height="368"></picture></a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
-		<div class="row up1">
-			<div class="col-lg-5 offset-lg-1">
-				<a href="mideon.html"><img src="img/lazyload-ph.png" data-src="img/play.png" class="img-fluid mx-auto d-block mg-sm rounded lazyload" alt="placeholder image" /></a><a href="mideon.html" class="a-btn a-block h3-2-style offset ltc-white">Mideon</a>
-				<p class="mg-clear p-1-style offset">
-					Easy MIDI Input
-				</p>
-			</div>
-			<div class="col-lg-5">
-				<a href="kai.html"><img src="img/lazyload-ph.png" data-src="img/kai.png" class="img-fluid mx-auto d-block mg-sm rounded lazyload" alt="placeholder image" /></a><a href="kai.html" class="a-btn a-block h3-2-style ltc-white offset">Kai</a>
-				<p class="p-1-style mg-clear offset">
-					Quit Smoking Assistant
-				</p>
-			</div>
-		</div>
-		<div class="row up2">
-			<div class="col-lg-5 offset-lg-1">
-				<a href="sam.html"><img src="img/lazyload-ph.png" data-src="img/sam.png" class="img-fluid mx-auto d-block mg-sm rounded lazyload" alt="placeholder image" /></a><a href="sam.html" class="a-btn a-block h3-2-style offset ltc-white">Sam</a>
-				<p class="mg-clear p-1-style offset">
-					Amphibious Drone
-				</p>
+		<div class="row">
+			<div class="text-start work-categories col background-misc">
+				<div class="div-works">
+					<h1 class="mb-4 header-categorytitle">
+						Misc
+					</h1>
+				</div>
+				<div class="div-works">
+					<div class="row g-0 works-row">
+						<div class="col project-card col-lg-12">
+							<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/HKGO.webp"><img src="img/lazyload-ph.png" data-src="img/HKGO.png" class="img-fluid img-protected mx-auto d-block lazyload" alt="placeholderimage" width="1060" height="596"></picture>
+							<div class="card-content ">
+								<h4 class="mb-4">
+									HKGO
+								</h4>
+								<p>
+									A travel guide for a wonderful trip to Hong Kong even before departure. <br>This is a graphic design and branding project.
+								</p>
+							</div><a href="./hkgo/"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/placeholder-image.webp"><img src="img/lazyload-ph.png" data-src="img/placeholder-image.png" class="img-fluid img-protected mx-auto d-block link-to-projects lazyload" alt="placeholder image" width="1060" height="742"></picture></a>
+						</div>
+					</div>
+					<div class="row g-0 works-row">
+						<div class="col project-card">
+							<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/NFClabel-label-design.webp"><img src="img/lazyload-ph.png" data-src="img/NFClabel-label-design.png" class="img-fluid img-protected mx-auto d-block lazyload" alt="placeholderimage" width="348" height="196"></picture>
+							<div class="card-content ">
+								<h4 class="mb-4">
+									LBX Connect
+								</h4>
+								<p>
+									An exploration about an enhanced interpersonal communication experience.
+								</p>
+							</div><a href="./connect/"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/placeholder-image.webp"><img src="img/lazyload-ph.png" data-src="img/placeholder-image.png" class="img-fluid img-protected mx-auto d-block link-to-projects lazyload" alt="placeholder image" width="348" height="244"></picture></a>
+						</div>
+						<div class="col project-card">
+							<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/devportal-light.webp"><img src="img/lazyload-ph.png" data-src="img/devportal-light.png" class="img-fluid img-protected mx-auto d-block lazyload" alt="placeholderimage" width="348" height="196"></picture>
+							<div class="card-content ">
+								<h4 class="mb-4">
+									Dev Portal
+								</h4>
+								<p>
+									The redesigned LightBox Dev Portal provides developers toolkit in a more interactive way.
+								</p>
+							</div><a href="./devportal/"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/placeholder-image.webp"><img src="img/lazyload-ph.png" data-src="img/placeholder-image.png" class="img-fluid img-protected mx-auto d-block link-to-projects lazyload" alt="placeholder image" width="348" height="244"></picture></a>
+						</div>
+						<div class="col project-card">
+							<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/Misc-cover.webp"><img src="img/lazyload-ph.png" data-src="img/Misc-cover.jpg" class="img-fluid img-protected mx-auto d-block lazyload" alt="placeholderimage" width="348" height="229"></picture>
+							<div class="card-content ">
+								<h4 class="mb-4">
+									Sparkling Bites
+								</h4>
+								<p>
+									Additional showcases, illustrations and design works.
+								</p>
+							</div><a href="./misc/"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/placeholder-image.webp"><img src="img/lazyload-ph.png" data-src="img/placeholder-image.png" class="img-fluid img-protected mx-auto d-block link-to-projects lazyload" alt="placeholder image" width="348" height="244"></picture></a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
 </div>
-<!-- bloc-1 END -->
-
-<!-- bloc-3 -->
-<div class="bloc full-width-bloc tc-white up2" id="bloc-3">
-	<div class="container bloc-lg bloc-no-padding-lg">
-		<div class="row">
-			<div class="col">
-				<div class="container-div-bloc-3-style" id="graphic">
-				</div>
-				<h2 class="tc-black h4-heading-ui-ux-style text-lg-center mg-clear">
-					<strong>Graphic Design</strong><br><br>
-				</h2>
-			</div>
-		</div>
-		<div class="row voffset-md">
-			<div class="col-lg-5 offset-lg-1">
-				<a href="travel-guide.html"><img src="img/lazyload-ph.png" data-src="img/hk.png" class="img-fluid mx-auto d-block mg-sm rounded lazyload" alt="placeholder image" /></a><a href="travel-guide.html" class="a-btn a-block h3-2-style offset ltc-white">HKGO<br></a>
-				<p class="mg-clear p-1-style offset">
-					Travel Guide
-				</p>
-			</div>
-		</div>
-	</div>
-</div>
-<!-- bloc-3 END -->
+<!-- bloc-2 END -->
 
 <!-- ScrollToTop Button -->
-<a class="bloc-button btn btn-d scrollToTop" onclick="scrollToTarget('1',this)"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 32 32"><path class="scroll-to-top-btn-icon" d="M30,22.656l-14-13-14,13"/></svg></a>
+<button aria-label="Scroll to top button" class="bloc-button btn btn-d scrollToTop" onclick="scrollToTarget('1',this)"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 32 32"><path class="scroll-to-top-btn-icon" d="M30,22.656l-14-13-14,13"/></svg></button>
 <!-- ScrollToTop Button END-->
 
 
 <!-- bloc-1 -->
-<div class="bloc none b-parallax" id="bloc-1">
-	<div class="parallax  bgc-white-smoke">
-	</div>
-	<div class="container bloc-lg bloc-sm-lg">
-		<div class="row">
-			<div class="col-12">
-				<nav class="navbar row navbar-expand-md eddienav navbar-dark" id="eddienav">
-					<a class="navbar-brand" href="index.html"><img src="img/lazyload-ph.png" data-src="img/資產%201@600x.png" alt="logo" class="lazyload" /></a>
-					<button id="nav-toggle" type="button" class="ui-navbar-toggler navbar-toggler border-0 p-0 mr-md-0 ml-auto" data-toggle="collapse" data-target=".navbar-36454" aria-expanded="false" aria-label="Toggle navigation">
-						<span class="navbar-toggler-icon"></span>
-					</button>
-					<div class="collapse navbar-collapse navbar-36454">
-						<ul class="site-navigation nav navbar-nav ml-auto">
-							<li class="nav-item menu">
-								<a href="index.html" class="nav-link ltc-white">Works</a>
-							</li>
-							<li class="nav-item menu">
-								<a href="me.html" class="nav-link ltc-white">About</a>
-							</li>
-							<li class="nav-item menu">
-								<a href="gallery.html" class="nav-link ltc-white">Gallery</a>
-							</li>
-						</ul>
-					</div>
-				</nav>
+<div class="bloc l-bloc" id="bloc-1">
+	<div class="container bloc-sm-md bloc-md bloc-sm-lg">
+		<div class="row align-items-start">
+			<div class="col text-start text-lg-start offset-lg-0 align-self-center">
+				<label class="label-style">
+					© 2023 Eddie Ko
+				</label>
+				<label class="label-style">
+					To infinity and beyond
+				</label>
 			</div>
-		</div>
-		<div class="row voffset">
-			<div class="col-12 offset-lg--1 col-lg-12 col-md-12 col-sm-12">
-				<h5 class="text-center h4-style text-lg-center text-md-center text-sm-center mg-clear tc-black">
-					© 2021 Eddie Ko All rights reserved<br>
-				</h5><a href="mailto:lgao1@inside.artcenter.edu" class="a-btn text-lg-center a-block link-style text-center ltc-black">CONTACT ME</a>
-				<div><div class="social-link-bric text-center">
-<a href="https://twitter.com/" class="twitter-link d-none " target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#38A1F3" viewBox="0 0 24 24" style="margin-left: 4px; margin-right: 4px;"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.066 9.645c.183 4.04-2.83 8.544-8.164 8.544-1.622 0-3.131-.476-4.402-1.291 1.524.18 3.045-.244 4.252-1.189-1.256-.023-2.317-.854-2.684-1.995.451.086.895.061 1.298-.049-1.381-.278-2.335-1.522-2.304-2.853.388.215.83.344 1.301.359-1.279-.855-1.641-2.544-.889-3.835 1.416 1.738 3.533 2.881 5.92 3.001-.419-1.796.944-3.527 2.799-3.527.825 0 1.572.349 2.096.907.654-.128 1.27-.368 1.824-.697-.215.671-.67 1.233-1.263 1.589.581-.07 1.135-.224 1.649-.453-.384.578-.87 1.084-1.433 1.489z"></path></svg></a>
-
-<a href="https://www.facebook.com/" class="facebook-link d-none " target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#3C5A99" viewBox="0 0 24 24" style="margin-left: 4px; margin-right: 4px;"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z"></path></svg></a>
-
-<a href="https://www.instagram.com/eddiekomposer" class="instagram-link" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="rgba(253,29,29,0.80)" viewBox="0 0 24 24" style="margin-left: 4px; margin-right: 4px;"><path d="M14.829 6.302c-.738-.034-.96-.04-2.829-.04s-2.09.007-2.828.04c-1.899.087-2.783.986-2.87 2.87-.033.738-.041.959-.041 2.828s.008 2.09.041 2.829c.087 1.879.967 2.783 2.87 2.87.737.033.959.041 2.828.041 1.87 0 2.091-.007 2.829-.041 1.899-.086 2.782-.988 2.87-2.87.033-.738.04-.96.04-2.829s-.007-2.09-.04-2.828c-.088-1.883-.973-2.783-2.87-2.87zm-2.829 9.293c-1.985 0-3.595-1.609-3.595-3.595 0-1.985 1.61-3.594 3.595-3.594s3.595 1.609 3.595 3.594c0 1.985-1.61 3.595-3.595 3.595zm3.737-6.491c-.464 0-.84-.376-.84-.84 0-.464.376-.84.84-.84.464 0 .84.376.84.84 0 .463-.376.84-.84.84zm-1.404 2.896c0 1.289-1.045 2.333-2.333 2.333s-2.333-1.044-2.333-2.333c0-1.289 1.045-2.333 2.333-2.333s2.333 1.044 2.333 2.333zm-2.333-12c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.958 14.886c-.115 2.545-1.532 3.955-4.071 4.072-.747.034-.986.042-2.887.042s-2.139-.008-2.886-.042c-2.544-.117-3.955-1.529-4.072-4.072-.034-.746-.042-.985-.042-2.886 0-1.901.008-2.139.042-2.886.117-2.544 1.529-3.955 4.072-4.071.747-.035.985-.043 2.886-.043s2.14.008 2.887.043c2.545.117 3.957 1.532 4.071 4.071.034.747.042.985.042 2.886 0 1.901-.008 2.14-.042 2.886z"></path></svg></a>
-
-<a href="https://www.youtube.com/user/" class="youtube-link d-none " target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#000000" viewBox="0 0 24 24" style="margin-left: 4px; margin-right: 4px;"><path d="M10.918 13.933h.706v3.795h-.706v-.419c-.13.154-.266.272-.405.353-.381.218-.902.213-.902-.557v-3.172h.705v2.909c0 .153.037.256.188.256.138 0 .329-.176.415-.284v-2.881zm.642-4.181c.2 0 .311-.16.311-.377v-1.854c0-.223-.098-.38-.324-.38-.208 0-.309.161-.309.38v1.854c-.001.21.117.377.322.377zm-1.941 2.831h-2.439v.747h.823v4.398h.795v-4.398h.821v-.747zm4.721 2.253v2.105c0 .47-.176.834-.645.834-.259 0-.474-.094-.671-.34v.292h-.712v-5.145h.712v1.656c.16-.194.375-.354.628-.354.517.001.688.437.688.952zm-.727.043c0-.128-.024-.225-.075-.292-.086-.113-.244-.125-.367-.062l-.146.116v2.365l.167.134c.115.058.283.062.361-.039.04-.054.061-.141.061-.262v-1.96zm10.387-2.879c0 6.627-5.373 12-12 12s-12-5.373-12-12 5.373-12 12-12 12 5.373 12 12zm-10.746-2.251c0 .394.12.712.519.712.224 0 .534-.117.855-.498v.44h.741v-3.986h-.741v3.025c-.09.113-.291.299-.436.299-.159 0-.197-.108-.197-.269v-3.055h-.741v3.332zm-2.779-2.294v1.954c0 .703.367 1.068 1.085 1.068.597 0 1.065-.399 1.065-1.068v-1.954c0-.624-.465-1.071-1.065-1.071-.652 0-1.085.432-1.085 1.071zm-2.761-2.455l.993 3.211v2.191h.835v-2.191l.971-3.211h-.848l-.535 2.16-.575-2.16h-.841zm10.119 10.208c-.013-2.605-.204-3.602-1.848-3.714-1.518-.104-6.455-.103-7.971 0-1.642.112-1.835 1.104-1.848 3.714.013 2.606.204 3.602 1.848 3.715 1.516.103 6.453.103 7.971 0 1.643-.113 1.835-1.104 1.848-3.715zm-.885-.255v.966h-1.35v.716c0 .285.024.531.308.531.298 0 .315-.2.315-.531v-.264h.727v.285c0 .731-.313 1.174-1.057 1.174-.676 0-1.019-.491-1.019-1.174v-1.704c0-.659.435-1.116 1.071-1.116.678.001 1.005.431 1.005 1.117zm-.726-.007c0-.256-.054-.445-.309-.445-.261 0-.314.184-.314.445v.385h.623v-.385z"></path></svg></a>
-
-<a href="https://vimeo.com/user109344646" class="vimeo-link" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="rgba(25,183,234,0.80)" viewBox="0 0 24 24" style="margin-left: 4px; margin-right: 4px;"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm5.82 11.419c-1.306 2.792-4.463 6.595-6.458 6.595-1.966 0-2.25-4.192-3.324-6.983-.527-1.372-.868-1.058-1.858-.364l-.604-.779c1.444-1.27 2.889-2.745 3.778-2.826.998-.096 1.615.587 1.845 2.051.305 1.924.729 4.91 1.472 4.91.577 0 2.003-2.369 2.076-3.215.13-1.24-.912-1.277-1.815-.89 1.43-4.689 7.383-3.825 4.888 1.501z"></path></svg></a>
-
-<a href="https://linkedin.com/in/eddie-komposer" class="linkedin-link" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="rgba(0,119,181,0.80)" viewBox="0 0 24 24" style="margin-left: 4px; margin-right: 4px;"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 16h-2v-6h2v6zm-1-6.891c-.607 0-1.1-.496-1.1-1.109 0-.612.492-1.109 1.1-1.109s1.1.497 1.1 1.109c0 .613-.493 1.109-1.1 1.109zm8 6.891h-1.998v-2.861c0-1.881-2.002-1.722-2.002 0v2.861h-2v-6h2v1.093c.872-1.616 4-1.736 4 1.548v3.359z"></path></svg></a>
-
-</div>
-				</div>
-				<div class="container-div-bloc-1-style">
-					</div>
+			<div class="col align-self-center text-lg-end pe-lg-5 text-md-end text-sm-end text-start">
+				<label class="label-style me-lg-5 me-md-5">
+					Don’t hesitate to connect!
+				</label><a href="https://www.instagram.com/eddiekomposer/" target="_blank"><span class="fab fa-instagram ms-lg-2 me-lg-2 icon-sm ms-md-2 me-md-2 ms-sm-1 me-sm-1 me-2"></span></a><a href="https://www.linkedin.com/in/eddie-komposer/" target="_blank"><span class="fab fa-linkedin ms-lg-2 me-lg-2 icon-sm ms-md-2 me-md-2 ms-sm-1 me-sm-1 ms-2 me-2"></span></a><a href="mailto:eddiekodesign@outlook.com"><span class="ms-lg-2 me-lg-2 ion ion-android-mail icon-sm ms-md-2 me-md-2 ms-sm-1 ms-2"></span></a>
 			</div>
 		</div>
 	</div>
@@ -285,12 +317,10 @@
 
 
 <!-- Additional JS -->
-<script src="./js/jquery.min.js?9757"></script>
-<script src="./js/bootstrap.bundle.min.js?4610"></script>
-<script src="./js/blocs.min.js?5779"></script>
+<script src="./js/bootstrap.bundle.min.js?2007"></script>
+<script src="./js/blocs.min.js?9296"></script>
 <script src="./js/lazysizes.min.js" defer></script>
-<script src="./js/be-animated-background.js?9656"></script>
-<script src="./js/universal-parallax.min.js?37"></script><!-- Additional JS END -->
+<script src="./js/navbar.js?5368"></script><!-- Additional JS END -->
 
 
 </body>
