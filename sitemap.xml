@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>eddieko.com</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -104,7 +104,7 @@
 </url>
 <url>
 	<loc>eddieko.com/about/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -134,7 +134,7 @@
 </url>
 <url>
 	<loc>eddieko.com/machinarium/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -252,7 +252,7 @@
 </url>
 <url>
 	<loc>eddieko.com/soundhub/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -490,7 +490,7 @@
 </url>
 <url>
 	<loc>eddieko.com/hkgo/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -550,12 +550,12 @@
 	<image:title>HKGO fonts</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/HKGO-cover.png</image:loc>
-	<image:title>HKGO cover</image:title>
+	<image:loc>eddieko.com/img/HKGO-book.png</image:loc>
+	<image:title>HKGO book</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/HKGO-cover.webp</image:loc>
-	<image:title>HKGO cover</image:title>
+	<image:loc>eddieko.com/img/HKGO-book.webp</image:loc>
+	<image:title>HKGO book</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/HKGO-1.png</image:loc>
@@ -648,7 +648,7 @@
 </url>
 <url>
 	<loc>eddieko.com/mideon/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -798,7 +798,7 @@
 </url>
 <url>
 	<loc>eddieko.com/classroom/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -928,14 +928,6 @@
 	<image:image>
 	<image:loc>eddieko.com/img/classroom-onlinelearning-trends.webp</image:loc>
 	<image:title>classroom onlinelearning-trends</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/classroom-quote.png</image:loc>
-	<image:title>classroom quote</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/classroom-quote.webp</image:loc>
-	<image:title>classroom quote</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/classroom-persona.png</image:loc>
@@ -1108,7 +1100,7 @@
 </url>
 <url>
 	<loc>eddieko.com/connect/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1226,7 +1218,7 @@
 </url>
 <url>
 	<loc>eddieko.com/devportal/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1302,11 +1294,11 @@
 	<image:title>Devportal command</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/devportal-hotkey.png</image:loc>
+	<image:loc>eddieko.com/img/devportal-Hotkey.png</image:loc>
 	<image:title>Devportal command</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/devportal-hotkey.webp</image:loc>
+	<image:loc>eddieko.com/img/devportal-Hotkey.webp</image:loc>
 	<image:title>Devportal command</image:title>
 	</image:image>
 	<image:image>
@@ -1336,7 +1328,7 @@
 </url>
 <url>
 	<loc>eddieko.com/misc/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1501,19 +1493,19 @@
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/Emptystate-5.png</image:loc>
-	<image:title>Emptystate 1</image:title>
+	<image:title>Emptystate 5</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/Emptystate-5.webp</image:loc>
-	<image:title>Emptystate 1</image:title>
+	<image:title>Emptystate 5</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/Emptystate-6.png</image:loc>
-	<image:title>Emptystate 2</image:title>
+	<image:title>Emptystate 6</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/Emptystate-6.webp</image:loc>
-	<image:title>Emptystate 2</image:title>
+	<image:title>Emptystate 6</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/realos-1.png</image:loc>
@@ -1690,7 +1682,7 @@
 </url>
 <url>
 	<loc>eddieko.com/lbx/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1756,7 +1748,7 @@
 </url>
 <url>
 	<loc>eddieko.com/edr/</loc>
-	<lastmod>2023-07-29</lastmod>
+	<lastmod>2023-08-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
