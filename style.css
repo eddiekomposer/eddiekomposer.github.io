@@ -606,14 +606,13 @@ p{
 }
 .div-works{
 	min-height:12vh;
-	width:50%;
+	width:60%;
 }
 .header-categorytitle{
 	font-size:4rem;
 	font-weight:500;
 	text-shadow:3.86px 4.60px 8px rgba(0,0,0,0.16),7.71px 9.19px 20px rgba(0,0,0,0.16),25.71px 30.64px 40px rgba(0,0,0,0.16);
-	margin-top:8%;
-	margin-left:8%;
+	margin:8% 8% 8% 8%;
 }
 .works-row{
 	height:50%;
@@ -1072,6 +1071,16 @@ url("img/misc-background-ford.webp") 2x);
 .misc-grid-ford{
 	grid-template-columns:1fr 1fr 1fr;
 }
+.works-card-title{
+	font-size:24px;
+}
+.works-card-text{
+	font-size:16px;
+}
+.div-title{
+	width:40%;
+	min-height:12vh;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -1346,6 +1355,7 @@ url("img/Misc-cover.webp") 2x);
 	background-position:left -100% top -44%;
 	background-repeat:no-repeat;
 }
+
 .project-card {
 	  position:relative;
 	  width:100%;
@@ -1503,7 +1513,6 @@ url("img/Misc-cover.webp") 2x);
 		font-size:400%;
 	}
 	.div-works{
-		min-width:312px;
 	}
 	.about-second-column{
 		min-width:90vw;
@@ -1536,15 +1545,27 @@ url("img/Misc-cover.webp") 2x);
 	.text-gradient-purple{
 		font-size:48px;
 	}
+	.works-card-title{
+		font-size:16px;
+	}
+	.works-card-text{
+		font-size:12px;
+	}
+	.header-categorytitle{
+		font-size:3rem;
+	}
+	.card-content{
+		padding:6% 6% 6% 16%;
+	}
 	
 }
 
 @media (max-width: 767px){
 	.div-works{
 		min-height:12vh;
+		width:100%;
 	}
 	.header-categorytitle{
-		font-size:40%;
 	}
 	.work-categories{
 		flex-direction:row;
@@ -1604,6 +1625,18 @@ url("img/Misc-cover.webp") 2x);
 	.misc-grid-emptystates{
 		grid-template-columns:1fr 1fr;
 	}
+	.works-card-title{
+		font-size:16px;
+	}
+	.works-card-text{
+		font-size:12px;
+	}
+	.div-title{
+		width:100%;
+	}
+	.card-content{
+		padding:4% 4% 4% 12%;
+	}
 	
 }
 
@@ -1611,7 +1644,7 @@ url("img/Misc-cover.webp") 2x);
 	.div-works{
 	}
 	.header-categorytitle{
-		font-size:40px;
+		font-size:3rem;
 	}
 	.about-second-column{
 		min-width:100vw;
@@ -1687,6 +1720,13 @@ url("img/Misc-cover.webp") 2x);
 	}
 	.misc-grid-ford{
 		grid-template-columns:1fr;
+	}
+	.card-content{
+		padding:2% 2% 2% 2%;
+	}
+	.profile-card{
+	}
+	.profile-contact{
 	}
 	
 }

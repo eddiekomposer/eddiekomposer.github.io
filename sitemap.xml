@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>eddieko.com</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -70,19 +70,19 @@
 	<image:title>placeholderimage</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/NFClabel-label-design.png</image:loc>
-	<image:title>placeholderimage</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/NFClabel-label-design.webp</image:loc>
-	<image:title>placeholderimage</image:title>
-	</image:image>
-	<image:image>
 	<image:loc>eddieko.com/img/devportal-light.png</image:loc>
 	<image:title>placeholderimage</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/devportal-light.webp</image:loc>
+	<image:title>placeholderimage</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/NFClabel-label-design.png</image:loc>
+	<image:title>placeholderimage</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/NFClabel-label-design.webp</image:loc>
 	<image:title>placeholderimage</image:title>
 	</image:image>
 	<image:image>
@@ -104,7 +104,7 @@
 </url>
 <url>
 	<loc>eddieko.com/about/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -134,7 +134,7 @@
 </url>
 <url>
 	<loc>eddieko.com/machinarium/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -252,7 +252,7 @@
 </url>
 <url>
 	<loc>eddieko.com/soundhub/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -490,7 +490,7 @@
 </url>
 <url>
 	<loc>eddieko.com/hkgo/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -648,7 +648,7 @@
 </url>
 <url>
 	<loc>eddieko.com/mideon/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -798,7 +798,7 @@
 </url>
 <url>
 	<loc>eddieko.com/classroom/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1100,7 +1100,7 @@
 </url>
 <url>
 	<loc>eddieko.com/connect/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1218,7 +1218,7 @@
 </url>
 <url>
 	<loc>eddieko.com/devportal/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1328,7 +1328,7 @@
 </url>
 <url>
 	<loc>eddieko.com/misc/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1628,12 +1628,12 @@
 	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/misc-art-3.png</image:loc>
-	<image:title>placeholder image-sq</image:title>
+	<image:loc>eddieko.com/img/misc-colorpractice.png</image:loc>
+	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>eddieko.com/img/misc-art-3.webp</image:loc>
-	<image:title>placeholder image-sq</image:title>
+	<image:loc>eddieko.com/img/misc-colorpractice.webp</image:loc>
+	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/misc-sketch-2.jpg</image:loc>
@@ -1642,6 +1642,22 @@
 	<image:image>
 	<image:loc>eddieko.com/img/misc-sketch-2.webp</image:loc>
 	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/misc-render-2.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/misc-render-2.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/misc-art-3.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>eddieko.com/img/misc-art-3.webp</image:loc>
+	<image:title>placeholder image-sq</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>eddieko.com/img/misc-art-1.jpg</image:loc>
@@ -1659,14 +1675,6 @@
 	<image:loc>eddieko.com/img/misc-art-2.webp</image:loc>
 	<image:title>placeholder image</image:title>
 	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/misc-render-2.jpg</image:loc>
-	<image:title>placeholder image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>eddieko.com/img/misc-render-2.webp</image:loc>
-	<image:title>placeholder image</image:title>
-	</image:image>
 	<video:video>
 	<video:content_loc>eddieko.com/vid/sound-final.mp4</video:content_loc>
 	<video:title>sound-final</video:title>
@@ -1682,7 +1690,7 @@
 </url>
 <url>
 	<loc>eddieko.com/lbx/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1748,7 +1756,7 @@
 </url>
 <url>
 	<loc>eddieko.com/edr/</loc>
-	<lastmod>2023-08-02</lastmod>
+	<lastmod>2023-08-05</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
