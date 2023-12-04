@@ -585,64 +585,23 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 p{
 	font-weight:300;
 }
-.work-categories{
-	background-color:rgba(255,255,255,0.82);
-	margin:1% 1% 1% 1%;
-	display:flex;
-	flex-wrap:wrap;
-	padding:1% 1% 1% 1%;
-}
 .card-content{
 	background-color:rgba(255,255,255,0.82);
 	backdrop-filter:blur(10px);
 	-webkit-backdrop-filter:blur(10px);
-	padding:8% 8% 8% 20%;
+	padding:4% 4% 4% 4%;
 	display:flex;
 	flex-direction:column;
 	justify-content:center;
+	width:480px;
+	height:100%;
 }
 .project-card{
-	max-height:368px;
-}
-.div-works{
-	min-height:12vh;
-	width:60%;
-}
-.header-categorytitle{
-	font-size:4rem;
-	font-weight:500;
-	text-shadow:3.86px 4.60px 8px rgba(0,0,0,0.16),7.71px 9.19px 20px rgba(0,0,0,0.16),25.71px 30.64px 40px rgba(0,0,0,0.16);
-	margin:8% 8% 8% 8%;
+	height:680px;
 }
 .works-row{
-	height:50%;
-	padding:4px 4px 4px 4px;
+	padding:4px 8px 4px 8px;
 	column-gap:8px;
-	justify-items:center;
-	align-items:center;
-	justify-self:center;
-	align-self:center;
-}
-.background-launched{
-	background-image:url("img/Background-launched.png");
-	background-image: -webkit-image-set(url("img/Background-launched.webp") 1x,
-url("img/Background-launched.webp") 2x);background-image: image-set(url("img/Background-launched.png") 1x,
-url("img/Background-launched.png") 2x,url("img/Background-launched.webp") 1x,
-url("img/Background-launched.webp") 2x);
-}
-.background-personal{
-	background-image:url("img/Background-personal.png");
-	background-image: -webkit-image-set(url("img/Background-personal.webp") 1x,
-url("img/Background-personal.webp") 2x);background-image: image-set(url("img/Background-personal.png") 1x,
-url("img/Background-personal.png") 2x,url("img/Background-personal.webp") 1x,
-url("img/Background-personal.webp") 2x);
-}
-.background-misc{
-	background-image:url("img/Background-misc.png");
-	background-image: -webkit-image-set(url("img/Background-misc.webp") 1x,
-url("img/Background-misc.webp") 2x);background-image: image-set(url("img/Background-misc.png") 1x,
-url("img/Background-misc.png") 2x,url("img/Background-misc.webp") 1x,
-url("img/Background-misc.webp") 2x);
 }
 .profile-card{
 	background-color:rgba(255,255,255,0.40);
@@ -1077,10 +1036,6 @@ url("img/misc-background-ford.webp") 2x);
 .works-card-text{
 	font-size:16px;
 }
-.div-title{
-	width:40%;
-	min-height:12vh;
-}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -1298,6 +1253,20 @@ url("img/Misc-cover.webp") 2x);background-image: image-set(url("img/Misc-cover.j
 url("img/Misc-cover.jpg") 2x,url("img/Misc-cover.webp") 1x,
 url("img/Misc-cover.webp") 2x);
 }
+.bg-Home-placeholder-image{
+	background-image:url("img/Home-placeholder-image.png");
+	background-image: -webkit-image-set(url("img/Home-placeholder-image.webp") 1x,
+url("img/Home-placeholder-image.webp") 2x);background-image: image-set(url("img/Home-placeholder-image.png") 1x,
+url("img/Home-placeholder-image.png") 2x,url("img/Home-placeholder-image.webp") 1x,
+url("img/Home-placeholder-image.webp") 2x);
+}
+.bg-machinarium{
+	background-image:url("img/machinarium.png");
+	background-image: -webkit-image-set(url("img/machinarium.webp") 1x,
+url("img/machinarium.webp") 2x);background-image: image-set(url("img/machinarium.png") 1x,
+url("img/machinarium.png") 2x,url("img/machinarium.webp") 1x,
+url("img/machinarium.webp") 2x);
+}
 
 /* = Custom Bric Data
 -------------------------------------------------------------- */
@@ -1336,36 +1305,19 @@ url("img/Misc-cover.webp") 2x);
 .navbar{
 	transition:transform 0.3s ease;
 }
-
 .navbar.hidden{
 	transform:translateY(-100%);
 }
-.background-launched {
-	background-size:42% auto;
-	background-position:left 28% bottom -240%;
-	background-repeat:no-repeat;
-}
-.background-personal {
-	background-size:48% auto;
-	background-position:left -10% bottom -32%;
-	background-repeat:no-repeat;
-}
-.background-misc {
-	background-size:88% auto;
-	background-position:left -100% top -44%;
-	background-repeat:no-repeat;
-}
+
 
 .project-card {
 	  position:relative;
-	  width:100%;
-	  height:100%;
 	  overflow:hidden;
 }
 .project-card img {
+	  object-fit:cover;
 	  width:100%;
 	  height:100%;
-	  object-fit:cover;
 	  transition:transform 0.3s ease;
 }
 .project-card:hover img {
@@ -1375,8 +1327,6 @@ url("img/Misc-cover.webp") 2x);
 	  position:absolute;
 	  top:0;
 	  left:100%;
-	  width:80%;
-	  height:100%;
 	  transition:transform 0.3s ease;
 }
 .project-card:hover .card-content {
@@ -1512,8 +1462,6 @@ url("img/Misc-cover.webp") 2x);
 		text-decoration:none;
 		font-size:400%;
 	}
-	.div-works{
-	}
 	.about-second-column{
 		min-width:90vw;
 		height:90vh;
@@ -1551,25 +1499,20 @@ url("img/Misc-cover.webp") 2x);
 	.works-card-text{
 		font-size:12px;
 	}
-	.header-categorytitle{
-		font-size:3rem;
-	}
 	.card-content{
-		padding:6% 6% 6% 16%;
+		padding:8% 8% 8% 8%;
+		width:320px;
+	}
+	.homepage-bigheader{
+		font-size:5rem;
+	}
+	.project-card{
+		height:360px;
 	}
 	
 }
 
 @media (max-width: 767px){
-	.div-works{
-		min-height:12vh;
-		width:100%;
-	}
-	.header-categorytitle{
-	}
-	.work-categories{
-		flex-direction:row;
-	}
 	.about-first-column{
 		min-width:90vw;
 		height:90vh;
@@ -1631,21 +1574,17 @@ url("img/Misc-cover.webp") 2x);
 	.works-card-text{
 		font-size:12px;
 	}
-	.div-title{
-		width:100%;
-	}
 	.card-content{
-		padding:4% 4% 4% 12%;
+		padding:4% 4% 4% 8%;
+		width:40%;
+	}
+	.works-row{
+		padding:0px 0px 0px 0px;
 	}
 	
 }
 
 @media (max-width: 575px){
-	.div-works{
-	}
-	.header-categorytitle{
-		font-size:3rem;
-	}
 	.about-second-column{
 		min-width:100vw;
 		height:85vh;
@@ -1723,10 +1662,22 @@ url("img/Misc-cover.webp") 2x);
 	}
 	.card-content{
 		padding:2% 2% 2% 2%;
+		width:100%;
 	}
 	.profile-card{
 	}
 	.profile-contact{
+	}
+	.homepage-bigheader{
+		font-size:3rem;
+	}
+	.h3-style{
+		font-size:1.5rem;
+	}
+	.works-row{
+	}
+	.project-card{
+		height:100vw;
 	}
 	
 }
