@@ -597,7 +597,7 @@ p{
 	height:100%;
 }
 .project-card{
-	height:680px;
+	height:672px;
 }
 .works-row{
 	padding:4px 8px 4px 8px;
@@ -804,7 +804,7 @@ url("img/About-location.webp") 2x);
 	height:128px;
 }
 .soundhub-flow-img{
-	height:32vw;
+	height:28vw;
 }
 .hkgo-background-1{
 	background-color:#BE1E2C;
@@ -895,10 +895,6 @@ url("img/About-location.webp") 2x);
 }
 .devportal-dark{
 	background-image:url("img/devportal-light.png");
-	background-image: -webkit-image-set(url("img/devportal-light.webp") 1x,
-url("img/devportal-light.webp") 2x);background-image: image-set(url("img/devportal-light.png") 1x,
-url("img/devportal-light.png") 2x,url("img/devportal-light.webp") 1x,
-url("img/devportal-light.webp") 2x);
 	background-image: -webkit-image-set(url("img/devportal-light.webp") 1x,
 url("img/devportal-light.webp") 2x);background-image: image-set(url("img/devportal-light.png") 1x,
 url("img/devportal-light.png") 2x,url("img/devportal-light.webp") 1x,
@@ -1086,11 +1082,11 @@ url("img/soundhub-designprocess-cover.png") 2x,url("img/soundhub-designprocess-c
 url("img/soundhub-designprocess-cover.webp") 2x);
 }
 .bg-HKGO-cover{
-	background-image:url("img/HKGO-cover.jpg");
-	background-image: -webkit-image-set(url("img/HKGO-cover.webp") 1x,
-url("img/HKGO-cover.webp") 2x);background-image: image-set(url("img/HKGO-cover.jpg") 1x,
-url("img/HKGO-cover.jpg") 2x,url("img/HKGO-cover.webp") 1x,
-url("img/HKGO-cover.webp") 2x);
+	background-image:url("img/HKGO-intro.jpg");
+	background-image: -webkit-image-set(url("img/HKGO-intro.webp") 1x,
+url("img/HKGO-intro.webp") 2x);background-image: image-set(url("img/HKGO-intro.jpg") 1x,
+url("img/HKGO-intro.jpg") 2x,url("img/HKGO-intro.webp") 1x,
+url("img/HKGO-intro.webp") 2x);
 }
 .bg-HKGO-background-3{
 	background-image:url("img/HKGO-background-3.jpg");
@@ -1121,11 +1117,11 @@ url("img/mideon-backgorund-genz.jpg") 2x,url("img/mideon-backgorund-genz.webp") 
 url("img/mideon-backgorund-genz.webp") 2x);
 }
 .bg-classroom-cover{
-	background-image:url("img/classroom-cover.jpg");
-	background-image: -webkit-image-set(url("img/classroom-cover.webp") 1x,
-url("img/classroom-cover.webp") 2x);background-image: image-set(url("img/classroom-cover.jpg") 1x,
-url("img/classroom-cover.jpg") 2x,url("img/classroom-cover.webp") 1x,
-url("img/classroom-cover.webp") 2x);
+	background-image:url("img/classroom-intro.jpg");
+	background-image: -webkit-image-set(url("img/classroom-intro.webp") 1x,
+url("img/classroom-intro.webp") 2x);background-image: image-set(url("img/classroom-intro.jpg") 1x,
+url("img/classroom-intro.jpg") 2x,url("img/classroom-intro.webp") 1x,
+url("img/classroom-intro.webp") 2x);
 }
 .bg-classroom-background{
 	background-image:url("img/classroom-background.png");
@@ -1225,13 +1221,6 @@ url("img/edr-lock.webp") 2x);background-image: image-set(url("img/edr-lock.png")
 url("img/edr-lock.png") 2x,url("img/edr-lock.webp") 1x,
 url("img/edr-lock.webp") 2x);
 }
-.bg-soundhub{
-	background-image:url("img/soundhub.png");
-	background-image: -webkit-image-set(url("img/soundhub.webp") 1x,
-url("img/soundhub.webp") 2x);background-image: image-set(url("img/soundhub.png") 1x,
-url("img/soundhub.png") 2x,url("img/soundhub.webp") 1x,
-url("img/soundhub.webp") 2x);
-}
 .bg-HKGO-neon{
 	background-image:url("img/HKGO-neon.jpg");
 	background-image: -webkit-image-set(url("img/HKGO-neon.webp") 1x,
@@ -1266,6 +1255,13 @@ url("img/Home-placeholder-image.webp") 2x);
 url("img/machinarium.webp") 2x);background-image: image-set(url("img/machinarium.png") 1x,
 url("img/machinarium.png") 2x,url("img/machinarium.webp") 1x,
 url("img/machinarium.webp") 2x);
+}
+.bg-soundhub-cover{
+	background-image:url("img/soundhub-cover.png");
+	background-image: -webkit-image-set(url("img/soundhub-cover.webp") 1x,
+url("img/soundhub-cover.webp") 2x);background-image: image-set(url("img/soundhub-cover.png") 1x,
+url("img/soundhub-cover.png") 2x,url("img/soundhub-cover.webp") 1x,
+url("img/soundhub-cover.webp") 2x);
 }
 
 /* = Custom Bric Data
@@ -1346,7 +1342,6 @@ url("img/machinarium.webp") 2x);
     filter: alpha(opacity=0);  
     opacity:0;  
 }
-
 
 
 <!-----------------------------About page------------------------------>
@@ -1474,6 +1469,7 @@ url("img/machinarium.webp") 2x);
 		background-color:rgba(255,255,255,0.75);
 	}
 	.soundhub-flow-img{
+		height:32vw;
 	}
 	.text-gradient-blue{
 		font-size:48px;
@@ -1540,6 +1536,7 @@ url("img/machinarium.webp") 2x);
 		font-size:80%;
 	}
 	.soundhub-flow-img{
+		height:32vw;
 	}
 	.soundhub-logo-design-img{
 		width:128px;
@@ -1625,6 +1622,7 @@ url("img/machinarium.webp") 2x);
 		width:96px;
 	}
 	.soundhub-flow-img{
+		height:32vw;
 	}
 	.text-gradient-blue{
 		font-size:48px;
